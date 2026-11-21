@@ -1,0 +1,4 @@
+source/template.html linguist-vendored
+source/*.py linguist-vendored
+source/*.js linguist-vendored
+source/md/*.md linguist-detectable
