@@ -1,0 +1,17 @@
+{"w":1250,"h":640,"title":"Every Step Up Needs Time on the Licence Below It","subtitle":"NSW example: the least time you must hold a licence before applying for the next class","items":[
+{"type":"box","center":true,"x":0,"y":255,"w":160,"h":95,"title":"C","lines":["Car licence"]},
+{"type":"arrow","points":[[160,302],[215,302],[215,150],[340,150]],"label":[228,136,"1 year"]},
+{"type":"arrow","points":[[160,302],[340,302]],"label":[228,289,"1 year"]},
+{"type":"arrow","points":[[215,302],[215,462],[340,462]],"label":[228,449,"2 years"]},
+{"type":"box","center":true,"x":340,"y":102,"w":300,"h":95,"title":"LR","lines":["Light rigid, to 8 t"]},
+{"type":"box","center":true,"x":340,"y":255,"w":300,"h":95,"title":"MR","lines":["Medium rigid, 2 axles"]},
+{"type":"box","center":true,"x":340,"y":415,"w":300,"h":95,"title":"HR","lines":["Heavy rigid, 3 or more axles"]},
+{"type":"arrow","points":[[640,302],[680,302],[680,382],[730,382]]},
+{"type":"arrow","points":[[640,462],[680,462],[680,382],[730,382]],"label":[700,322,"1 year on MR or HR"]},
+{"type":"box","center":true,"x":730,"y":335,"w":225,"h":95,"title":"HC","lines":["Heavy combination"]},
+{"type":"arrow","points":[[955,382],[1025,382]],"label":[962,368,"1 year"]},
+{"type":"box","center":true,"fill":"orange","x":1025,"y":335,"w":225,"h":95,"title":"MC","lines":["Multi combination"]},
+{"type":"arrow","dashed":true,"points":[[490,510],[490,628],[1137,628],[1137,432]]},
+{"type":"text","x":510,"y":562,"text":"or 1 year on HR, allowed in most states today,","size":18.5,"fill":"#4A4A4A"},
+{"type":"text","x":510,"y":588,"text":"ends under the new national framework","size":18.5,"fill":"#4A4A4A"}
+]}

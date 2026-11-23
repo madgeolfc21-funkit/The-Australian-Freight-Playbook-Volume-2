@@ -1,0 +1,17 @@
+{"w":1230,"h":830,"title":"Any Doubt Means You Speak Up Before the Shift Starts","items":[
+{"type":"box","center":true,"x":200,"y":60,"w":380,"h":80,"title":"Before every shift"},
+{"type":"arrow","points":[[390,140],[390,160]]},
+{"type":"diamond","cx":390,"cy":230,"w":560,"h":140,"lines":["Slept enough and","feeling alert?"]},
+{"type":"arrow","points":[[390,300],[390,350]],"label":[405,332,"yes"]},
+{"type":"diamond","cx":390,"cy":420,"w":560,"h":140,"lines":["No illness, injury or","drowsy medicine?"]},
+{"type":"arrow","points":[[390,490],[390,540]],"label":[405,522,"yes"]},
+{"type":"diamond","cx":390,"cy":610,"w":560,"h":140,"lines":["No alcohol or drugs,","mind on the road?"]},
+{"type":"arrow","points":[[390,680],[390,740]],"label":[405,718,"yes to all three"]},
+{"type":"box","center":true,"fill":"yellow","x":200,"y":740,"w":380,"h":80,"title":"Start your shift"},
+{"type":"line","points":[[670,230],[745,230],[745,420]]},
+{"type":"line","points":[[670,610],[745,610],[745,420]]},
+{"type":"arrow","points":[[670,420],[810,420]],"label":[690,212,"no to any"]},
+{"type":"box","center":true,"x":810,"y":373,"w":420,"h":95,"title":"Tell your scheduler","lines":["before you start, not halfway through"]},
+{"type":"arrow","points":[[1020,468],[1020,545]]},
+{"type":"box","center":true,"fill":"orange","x":810,"y":545,"w":420,"h":95,"title":"Do not drive while unfit","lines":["HVNL duty from 1 August 2026"]}
+]}

@@ -1,4 +1,3 @@
-source/book.html
-node_modules/
-__pycache__/
-.DS_Store
+engine/node_modules/
+engine/book.html
+out/

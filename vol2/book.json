@@ -1,0 +1,99 @@
+{
+  "series": "Supplying a Continent",
+  "brand": "J.A.G.",
+  "brand_long": "Just Ask George",
+  "vol": "Vol. 2",
+  "subject": "Australian Logistics",
+  "edition": "Australian Edition",
+  "author": "George Madouris",
+  "date": "November 2026",
+  "status": "",
+  "tagline": "Shipping, driving, running and growing a freight business in every state and territory",
+  "blurb": "One book for the three people every consignment depends on: the shipper who buys it, the driver who moves it and the operator who runs the trucks. Plain words, checked figures and 30 tools.",
+  "tools": 30,
+  "parts": [
+    [
+      "A",
+      "Freight Basics",
+      "Everyone: the shared language, map and rules",
+      [
+        "f97c1022-b30d",
+        "svg:A_cor",
+        "c10e8897-d7f3",
+        "svg:A_licence",
+        "cd619dd8-41fa"
+      ]
+    ],
+    [
+      "B",
+      "The Shipper and Receiver",
+      "For the person who buys freight, and the person who receives it",
+      [
+        "svg:B_service",
+        "b62cdc1b-84ee",
+        "svg:B_audit"
+      ]
+    ],
+    [
+      "C",
+      "The Driver",
+      "For the person behind the wheel",
+      [
+        "svg:C_fit",
+        "d9ac66be-7ffa",
+        "svg:C_load",
+        "svg:C_pressure",
+        "svg:C_roadside",
+        "cb6ad2e2-6ef0"
+      ]
+    ],
+    [
+      "D",
+      "The Operator",
+      "For the business that runs the trucks",
+      [
+        "5f141171-2a35",
+        "ed4f9f00-251c",
+        "svg:D_access",
+        "svg:D_diligence",
+        "18bdddfc-ead4",
+        "17bfbcd3-afc7"
+      ]
+    ],
+    [
+      "E",
+      "Growing the Business",
+      "From one truck to a 3PL",
+      [
+        "svg:E_ladder",
+        "8dfc387e-fe34",
+        "b0277428-59fe",
+        "821f5eee-5a66",
+        "svg:E_stop"
+      ]
+    ],
+    [
+      "F",
+      "Rail, Air, Sea and Last Mile",
+      "The other modes, at working depth",
+      [
+        "svg:F_chain"
+      ]
+    ],
+    [
+      "G",
+      "Numbers and Tool Index",
+      "KPIs, the 30 tools and the update calendar",
+      [
+        "svg:G_kpi"
+      ]
+    ]
+  ],
+  "title_cover": [
+    "Supplying a Continent:",
+    "Australian Transport &amp; Logistics Playbook"
+  ],
+  "title_short": "Supplying a Continent",
+  "title": "Supplying a Continent",
+  "title_sub": "Australian Logistics"
+}
