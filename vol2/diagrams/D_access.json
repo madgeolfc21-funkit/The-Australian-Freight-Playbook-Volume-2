@@ -1,15 +1,1 @@
-{"w":1240,"h":800,"title":"General Access If You Can, a Notice If You Must, a Permit as the Last Resort","items":[
-{"type":"diamond","cx":330,"cy":150,"w":560,"h":140,"lines":["Within general mass","and dimension limits?"]},
-{"type":"arrow","points":[[610,150],[790,150]],"label":[660,137,"yes"]},
-{"type":"box","center":true,"fill":"yellow","x":790,"y":103,"w":440,"h":95,"title":"General access","lines":["most roads, no paperwork"]},
-{"type":"arrow","points":[[330,220],[330,270]],"label":[345,252,"no"]},
-{"type":"diamond","cx":330,"cy":340,"w":560,"h":140,"lines":["Running in WA","or the NT?"]},
-{"type":"arrow","points":[[610,340],[790,340]],"label":[660,327,"yes"]},
-{"type":"box","center":true,"x":790,"y":293,"w":440,"h":95,"title":"State system","lines":["Main Roads WA RAV network, NT rules"]},
-{"type":"arrow","points":[[330,410],[330,460]],"label":[345,442,"no"]},
-{"type":"diamond","cx":330,"cy":530,"w":560,"h":140,"lines":["Road on a notice network","for your vehicle class?"]},
-{"type":"arrow","points":[[610,530],[790,530]],"label":[660,517,"yes"]},
-{"type":"box","center":true,"x":790,"y":483,"w":440,"h":95,"title":"Run under the notice","lines":["carry it and meet every condition"]},
-{"type":"arrow","points":[[330,600],[330,660]],"label":[345,640,"no"]},
-{"type":"box","center":true,"fill":"orange","x":100,"y":660,"w":460,"h":95,"title":"Apply for a permit","lines":["NHVR portal; road managers must consent"]}
-]}
+{"w": 1240, "h": 800, "title": "General Access If You Can, A Notice If You Must, A Permit As The Last Resort", "items": [{"type": "diamond", "cx": 330, "cy": 150, "w": 560, "h": 140, "lines": ["Within general mass", "and dimension limits?"]}, {"type": "arrow", "points": [[610, 150], [790, 150]], "label": [660, 137, "yes"]}, {"type": "box", "center": true, "fill": "yellow", "x": 790, "y": 103, "w": 440, "h": 95, "title": "General access", "lines": ["most roads, no paperwork"]}, {"type": "arrow", "points": [[330, 220], [330, 270]], "label": [345, 252, "no"]}, {"type": "diamond", "cx": 330, "cy": 340, "w": 560, "h": 140, "lines": ["Running in WA", "or the NT?"]}, {"type": "arrow", "points": [[610, 340], [790, 340]], "label": [660, 327, "yes"]}, {"type": "box", "center": true, "x": 790, "y": 293, "w": 440, "h": 95, "title": "State system", "lines": ["Main Roads WA RAV network, NT rules"]}, {"type": "arrow", "points": [[330, 410], [330, 460]], "label": [345, 442, "no"]}, {"type": "diamond", "cx": 330, "cy": 530, "w": 560, "h": 140, "lines": ["Road on a notice network", "for your vehicle class?"]}, {"type": "arrow", "points": [[610, 530], [790, 530]], "label": [660, 517, "yes"]}, {"type": "box", "center": true, "x": 790, "y": 483, "w": 440, "h": 95, "title": "Run under the notice", "lines": ["carry it and meet every condition"]}, {"type": "arrow", "points": [[330, 600], [330, 660]], "label": [345, 640, "no"]}, {"type": "box", "center": true, "fill": "orange", "x": 100, "y": 660, "w": 460, "h": 95, "title": "Apply for a permit", "lines": ["NHVR portal; road managers must consent"]}]}

@@ -1,4 +1,4 @@
-# Part B: The Shipper and Receiver
+# Part B: The Shipper And Receiver
 
 Supplying a Continent · Vol. 2 · Australian Logistics
 
@@ -21,7 +21,7 @@ Every chapter ends in a tool. Every rate in the tools is editable, and each one 
 | What an imported product really costs once it reaches your door | T29 Landed cost calculator |
 | Who is booked at your dock, and how long each truck waited | T30 Dock booking and receiving log |
 
-## Chapter 1: Parcel, Pallet, LTL or Full Load
+## Chapter 1: Parcel, Pallet, LTL Or Full Load
 
 The service you book decides how you are charged, so pick it before you ask for a price. Four services cover almost everything a warehouse sends by road.
 
@@ -66,7 +66,7 @@ Three questions sort a carrier before you ask for rates:
 
 A broker or aggregator is not a carrier. You gain choice and one invoice, but a damage claim still depends on the carrier that moved the freight, and your own Chain of Responsibility duties stay with you (Chapter 7). Ask who the carrier is before you book.
 
-## Chapter 3: How a Rate Card Works
+## Chapter 3: How A Rate Card Works
 
 A road express price is built from five parts, and you can check every one: the zone pair, the basic charge, the rate per kg, the minimum charge and the chargeable weight. The fuel levy and any surcharges go on top.
 
@@ -129,7 +129,7 @@ If you engage owner drivers or small fleets directly, the Fair Work Commission's
 
 Diesel has stepped up rather than drifted: the 2022 jump never fully unwound, and the August 2026 week sat well above the trend line. Check the base diesel price behind every rate card against this chart. A base set in 2020 makes any levy look big, and a base set in 2022 makes it look small.
 
-## Chapter 5: Surcharges and Extras
+## Chapter 5: Surcharges And Extras
 
 The rate card gets you to the base price. Surcharges are where a quote and an invoice drift apart. Most are fair charges for real extra work; the problem is that nobody told the carrier about the extra work at booking, so it turns up after the fact with no chance to avoid it.
 
@@ -154,7 +154,7 @@ Three habits stop most surprise surcharges:
 2. **Get the list in writing.** Every surcharge the carrier can apply, with its price, should be in the rate card or its schedule. A surcharge that is not on the list should not be on the invoice.
 3. **Track them by cause.** Log every surcharge in T04 against the reason. If waiting time keeps hitting one site, the fix is at that site, not in the carrier negotiation.
 
-## Chapter 6: From Booking to Proof of Delivery
+## Chapter 6: From Booking To Proof Of Delivery
 
 Every consignment leaves a paper trail. If the trail is complete, a claim, a dispute or an audit takes minutes. If it has gaps, you pay whatever the carrier says.
 
@@ -173,7 +173,7 @@ Every consignment leaves a paper trail. If the trail is complete, a claim, a dis
 | Your reference: order or PO number | Lets you match the invoice to the order later (T04, T07) |
 | Declared value and whether you want extra cover | Carrier liability is usually limited; see Chapter 8 |
 
-### The Five Records to Keep
+### The Five Records To Keep
 
 | Stage | Record | Who creates it | Keep it because |
 | --- | --- | --- | --- |
@@ -183,24 +183,24 @@ Every consignment leaves a paper trail. If the trail is complete, a claim, a dis
 | 4. Transit | Tracking scans | Carrier | Shows where it went missing or got delayed |
 | 5. Delivery | Proof of delivery (POD): name, signature, date, time, photo if offered | Receiver and driver | Starts the claim clock; without it a lost item is your word against theirs |
 
-### Making the POD Count
+### Making The POD Count
 
 - Ask receivers to count items and look for damage **before** they sign. Damage noted on the POD is a claim; damage found next week is an argument.
 - If the receiver cannot check (driver in a hurry, freight wrapped), they should sign as unchecked rather than sign it as received in good order.
 - Pull PODs for every consignment over a set value, or every consignment to a new customer, within a day of delivery. Do not wait for the customer to complain.
 - Store PODs with the order, not in the carrier portal only. Portals often keep history for a limited time.
 
-### When the Tracking Goes Quiet
+### When The Tracking Goes Quiet
 
 No scan for one business day past the expected delivery is the point to act. Ask the carrier for the last physical scan and depot, ask the receiver to check their dock, and log the date you raised it. Late raised enquiries are the most common reason lost freight claims stall.
 
-## Chapter 7: Your Chain of Responsibility Duties
+## Chapter 7: Your Chain Of Responsibility Duties
 
 Chain of Responsibility (CoR) means a truck that is overloaded, badly restrained or driven by a tired driver is not only the driver's problem. If your business sends, packs, loads, receives or schedules freight on a heavy vehicle, you are in the chain, and handing the job to a carrier does not hand over your duty.
 
 The Heavy Vehicle National Law (HVNL) applies in every state and territory except Western Australia and the Northern Territory. WA has its own chain of responsibility rules under its road traffic laws; check the WA rules if you send freight there or from there.
 
-### What the Law Asks of You
+### What The Law Asks Of You
 
 - **The primary duty (HVNL section 26C):** do everything reasonably practicable to make sure your part of the transport activity is safe.
 - **No pressure (section 26E):** you must not ask, direct or require a driver or another party, directly or indirectly, to do something that would break a speed, fatigue, mass, dimension, load restraint or vehicle standard rule.
@@ -209,7 +209,11 @@ The Heavy Vehicle National Law (HVNL) applies in every state and territory excep
 
 The top penalty for a Category 1 breach of the primary duty is $4,230,550 for a corporation, and for an individual $436,850, five years in jail, or both (NHVR penalty list for 1 August 2026 to 30 June 2027).
 
-### Your Duties by Role
+> ### Data Note
+>
+> Penalty amounts are indexed each 1 July. Recheck them against the NHVR schedule of penalties every year, on the dates in Part G, Chapter 3.
+
+### Your Duties By Role
 
 | Your role | Where it goes wrong | What reasonable steps look like |
 | --- | --- | --- |
@@ -220,7 +224,7 @@ The top penalty for a Category 1 breach of the primary duty is $4,230,550 for a 
 | Scheduler | Delivery promises that only work if the driver speeds or skips rest | Transit times built from legal driving hours (T14), not from the customer's wish |
 | Anyone who contracts carriers | Rates so low the carrier can only make money by cutting corners | Rates that cover a legal trip (T09 shows what a truck really costs per km); no reward for impossible speed |
 
-### Six Questions to Ask Every Carrier
+### Six Questions To Ask Every Carrier
 
 1. How do you manage fatigue and driver hours?
 2. Are you NHVAS or Trucksafe accredited, or how else do you show your safety system?
@@ -231,11 +235,11 @@ The top penalty for a Category 1 breach of the primary duty is $4,230,550 for a 
 
 Record the answers. If something goes wrong, the question is what your business did to reduce the risk; a file with these answers and your follow up is part of that story. The subcontractor onboarding checklist (T27) works as a starting point for a shipper's version.
 
-## Chapter 8: Invoice Audit and Claims
+## Chapter 8: Invoice Audit And Claims
 
 Freight invoices are built by systems from scans, measurements and codes. Each step can go wrong, and the errors rarely fall in your favour. Checking every line sounds like a lot of work until you see how few patterns cause most of the errors.
 
-### What T04 Checks on Every Line
+### What T04 Checks On Every Line
 
 | Check | Common error it catches |
 | --- | --- |
@@ -252,7 +256,7 @@ Every line with a problem gets a reason and an amount to claim back. The Summary
 
 The loop matters more than any single credit note. If one carrier's cubic measurements are wrong every month, a credit each month is a tax on your time. Show them the T08 trend and ask for the scanner at their depot to be checked.
 
-### Making a Claim for Loss or Damage
+### Making A Claim For Loss Or Damage
 
 1. **Note it on the POD.** Damage or a short count noted at delivery is the strongest evidence you will have (Chapter 6).
 2. **Tell the carrier in writing straight away.** Carrier terms set short notice periods for damage and loss. Read yours before you need them, and put the dates in your claims register.
@@ -260,7 +264,7 @@ The loop matters more than any single credit note. If one carrier's cubic measur
 4. **Send the claim pack:** con note, POD, photos, invoice for the goods (your cost, not the sale price unless the terms say otherwise), and repair or replacement quotes.
 5. **Chase it on a date.** Put a follow up date in the register. T08 scores claims paid within 30 days for a reason.
 
-### Know What the Carrier Will Actually Pay
+### Know What The Carrier Will Actually Pay
 
 Most carrier terms limit what they will pay for loss or damage, often to a set amount per consignment or per kilogram, unless you buy extra cover. Before you send high value freight:
 
@@ -274,7 +278,7 @@ This is general information, not legal advice. For a large claim, or a disputed 
 
 Every carrier says its on time rate is in the high nineties. Yours might be, measured their way. Measure it your way, on your own freight, every month, and the quarterly review becomes a conversation about facts instead of feelings.
 
-### The Six Measures in T08
+### The Six Measures In T08
 
 | Measure | Default weight | Full marks at | Zero at | Where the number comes from |
 | --- | --- | --- | --- | --- |
@@ -305,7 +309,7 @@ Each measure earns full marks at its target and drops in a straight line to zero
 
 A scorecard nobody acts on is just a report. The rule that makes it work: every red measure gets a cause and an action with a name and a date, and the next quarter shows whether it worked.
 
-## Chapter 10: State by State Shipping Traps
+## Chapter 10: State By State Shipping Traps
 
 Australia runs on one set of road rules for heavy vehicles, except where it does not. These are the differences that most often catch shippers out. Rules and prices change; each one below was checked in November 2026.
 
@@ -323,11 +327,11 @@ Australia runs on one set of road rules for heavy vehicles, except where it does
 
 A practical habit: keep a one page lane sheet for each regular route, listing transit time, tolls, cut off times and any rule above that applies. T06 has a column for notes on each lane.
 
-## Chapter 11: Receiving at Your Dock
+## Chapter 11: Receiving At Your Dock
 
 Every consignment in this part ends at someone's dock. When that dock is yours, most of the book still applies, just from the other side: the booking, the records and the claims all run backwards. Three jobs belong to the receiver alone: running the dock bookings, checking the freight at the door, and deciding when to refuse it.
 
-### Run the Dock on Bookings
+### Run The Dock On Bookings
 
 A dock with no bookings works until three trucks arrive at once. Then drivers queue, their work hours burn while they wait, and the queue becomes your Chain of Responsibility problem as well as theirs (Chapter 7).
 
@@ -342,7 +346,7 @@ A dock with no bookings works until three trucks arrive at once. Then drivers qu
 
 Measure turnaround on every truck: arrival time, start of unload, departure. **T30 Dock booking and receiving log** keeps the bookings and the times in one place and shows which carriers and which suppliers wait longest. Long waits that keep coming back are a dock problem to fix, not a carrier problem to bill.
 
-### The Check at the Door
+### The Check At The Door
 
 Check before anyone signs, because the signature on the proof of delivery is where your claim rights start (Chapter 6).
 
@@ -355,7 +359,7 @@ Check before anyone signs, because the signature on the proof of delivery is whe
 5. **For chilled or frozen freight,** check the temperature against your receiving rule.
 6. **Write every problem on the proof of delivery,** with the count, before you sign. If there is no time to check, sign as unchecked.
 
-### When to Refuse a Load
+### When To Refuse A Load
 
 | Problem | Refuse? | What to do |
 | --- | --- | --- |
@@ -365,11 +369,11 @@ Check before anyone signs, because the signature on the proof of delivery is whe
 | Chilled or frozen freight outside its temperature range | Yes, if your food safety rule says so | Record the reading on the POD and tell the supplier straight away |
 | Freight not packed or labelled to your supplier standard | Accept the first time, with a note | Send the supplier your standard and charge back repeat failures as your standard allows |
 
-### Set a Supplier Delivery Standard
+### Set A Supplier Delivery Standard
 
 Most problems at the door start at the supplier's dispatch bay. A one page standard, sent with every new purchase order, fixes them at the source. Cover the pallet type and the largest height and weight you accept, how pallets must be wrapped, what goes on each label, when the advance shipping notice is due, how to book a slot, and what you charge back when the standard is not met. Keep it short enough that the supplier's forklift driver will actually read it.
 
-## Chapter 12: Importing a Container
+## Chapter 12: Importing A Container
 
 A container from overseas passes through more hands than any domestic consignment, and every one of them can send you a bill. The clock starts at the wharf, so knowing who does what before the ship arrives is how you avoid paying for days you did not need.
 
@@ -386,7 +390,7 @@ A container from overseas passes through more hands than any domestic consignmen
 | Empty container park | Takes the empty box back for the shipping line | Park fees, often charged through the carrier |
 | Australian Border Force and the Department of Agriculture | Clear the goods for customs and biosecurity | Import processing charge, biosecurity charge, inspections if needed |
 
-### The Path of a Box
+### The Path Of A Box
 
 1. **Agree the terms** with your supplier, so both sides know who pays for what and where (Chapter 13).
 2. **The ship sails.** Your broker lodges the import declaration before arrival, so it can be cleared quickly.
@@ -396,9 +400,13 @@ A container from overseas passes through more hands than any domestic consignmen
 6. **You unpack it** within the free days for the container.
 7. **The carrier returns the empty** to the park named on the shipping line's delivery order. The clock stops there, not when you finish unpacking.
 
+> ### Data Note
+>
+> Free days are set by each shipping line and terminal, and the storage days and the container days are counted separately. Ask your forwarder for both before the ship sails, and diary the last free day of each.
+
 [[sketch B07 half]]
 
-### The Clock Starts at the Wharf
+### The Clock Starts At The Wharf
 
 Two different charges run on two different clocks:
 
@@ -409,7 +417,7 @@ Two different charges run on two different clocks:
 
 Free days are short. One major shipping line's tariff for April 2026 gives 3 days of free wharf storage and 8 days of free container use on imports, then charges from about $116 a day for a 20 foot dry box, rising the longer you keep it. Check your own line's tariff when you book, and plan the unpack before the ship arrives.
 
-### Charges That Land on You
+### Charges That Land On You
 
 | Charge | Who sets it | What to know |
 | --- | --- | --- |
@@ -434,7 +442,7 @@ The price on the supplier's invoice is not what an imported product costs you. L
 
 GST is left out when you can claim it back. If you cannot, add it in.
 
-### Who Pays for What
+### Who Pays For What
 
 The sale terms decide which costs are already in the supplier's price. These are the common ones, from the Incoterms rules:
 
@@ -467,7 +475,7 @@ The goods cost $40.00 a unit at the overseas port and $46.87 on your floor: 17% 
 
 **T29 Landed cost calculator** does this for each shipment, splits the cost across mixed products by value or by volume, and shows how the landed cost per unit moves when the freight, the exchange rate or the duty rate changes.
 
-## Chapter 14: Tools, Forms and the Monthly Routine
+## Chapter 14: Tools, Forms And The Monthly Routine
 
 Every tool is an Excel workbook with yellow cells for your inputs, blue cells that do the working and orange cells for the answer. Every rate and limit can be edited, and each tool shows the date its figures were checked.
 
@@ -484,7 +492,7 @@ Every tool is an Excel workbook with yellow cells for your inputs, blue cells th
 | T29 Landed cost calculator | Pricing an imported product, or checking a supplier quote against another | 12, 13 |
 | T30 Dock booking and receiving log | Running dock bookings and measuring how long each truck waits | 11 |
 
-### Forms in This Part
+### Forms In This Part
 
 | Form | Where | What it does |
 | --- | --- | --- |

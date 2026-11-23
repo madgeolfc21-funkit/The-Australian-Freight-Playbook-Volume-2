@@ -8,9 +8,9 @@ Part A gives every reader the same words and the same map before the book splits
 
 | If you are | Read Part A, then go to | Because |
 | --- | --- | --- |
-| Buying freight for a business | Part B: The Shipper | You need to know what a consignment should cost before the invoice arrives |
+| Buying freight for a business | Part B: The Shipper And Receiver | You need to know what a consignment should cost before the invoice arrives |
 | Driving a truck, or about to | Part C: The Driver | You answer personally for your licence, hours, load and vehicle on every shift |
-| Running trucks, from one to a fleet | Part D: The Operator, then Part E: Growing the Business | The business carries its own duties, costs and growth decisions |
+| Running trucks, from one to a fleet | Part D: The Operator, then Part E: Growing The Business | The business carries its own duties, costs and growth decisions |
 
 Part A is the shared ground: how freight moves around Australia, the language on the paperwork, who is who in a consignment, the vehicles and licences, and the conditions that make Australian freight different from anywhere else. Every figure was checked in November 2026 and carries its source.
 
@@ -49,7 +49,7 @@ Transit times are typical for general road freight in business days, door to doo
 
 Freight has its own language, and the paperwork assumes you speak it. These are the words used throughout this book, grouped by where you meet them.
 
-### On the Booking and the Invoice
+### On The Booking And The Invoice
 
 | Term | What it means |
 | --- | --- |
@@ -63,7 +63,7 @@ Freight has its own language, and the paperwork assumes you speak it. These are 
 | Fuel levy | A percentage added to freight to cover diesel price movement (Part B, Chapter 4) |
 | Surcharge | A fee for extra work: tail lift, residential, waiting time, remote area |
 
-### On the Paperwork
+### On The Paperwork
 
 | Term | What it means |
 | --- | --- |
@@ -73,7 +73,7 @@ Freight has its own language, and the paperwork assumes you speak it. These are 
 | DG (dangerous goods) | Goods classed as hazardous for transport under the Australian Dangerous Goods Code; need declaring |
 | Work diary | The driver's legal record of work and rest hours (Part C) |
 
-### In the Depot and on the Road
+### In The Depot And On The Road
 
 | Term | What it means |
 | --- | --- |
@@ -84,10 +84,10 @@ Freight has its own language, and the paperwork assumes you speak it. These are 
 | Tail lift | A powered platform on the back of a truck for delivering where there is no forklift |
 | 3PL (third party logistics) | A business that stores, picks, packs and ships for other businesses |
 
-> ### Body Types You Will Hear on the Dock
+> ### Body Types You Will Hear On The Dock
 > A **pantech** is an enclosed box body. A **curtain sider** (often called a tautliner) has curtain sides that slide back so a forklift can load from the side. A **flat top** is an open tray, and a **drop deck** has a lower deck for tall freight. A **dog trailer** is towed behind a rigid truck.
 
-### In the Law
+### In The Law
 
 | Term | What it means |
 | --- | --- |
@@ -98,7 +98,7 @@ Freight has its own language, and the paperwork assumes you speak it. These are 
 
 [[sketch A03 fifth]]
 
-### On the Truck
+### On The Truck
 
 | Term | What it means |
 | --- | --- |
@@ -171,7 +171,7 @@ Australia uses the same six licence classes everywhere, and each step up needs t
 
 &#91;embedded content: Licence upgrade path, NSW tenure rules as published by the NSW Government, checked November 2026\]
 
-### The National Framework Is Changing the Path
+### The National Framework Is Changing The Path
 
 Austroads and the state licensing agencies are rolling out the National Heavy Vehicle Driver Competency Framework. It ends the jump from HR straight to MC that most states allow today, and gives three ways to qualify for each upgrade ([Austroads pathways fact sheet](https://austroads.gov.au/__data/assets/pdf_file/0035/616967/NHVDCF_Factsheet2_Pathways.pdf)):
 
@@ -213,7 +213,7 @@ Every condition in that table is also a safety risk. Deaths in crashes involving
 
 Those numbers include crashes where the truck driver was not at fault. They are still the reason fatigue, speed, mass and load restraint rules exist, and the reason the Chain of Responsibility reaches every business that sends, loads, schedules or receives freight.
 
-## Chapter 7: Tools and Quick References
+## Chapter 7: Tools And Quick References
 
 Part A has one workbook and three references you will come back to. Keep the quick reference card below next to the dispatch desk.
 
@@ -258,3 +258,13 @@ Part A has one workbook and three references you will come back to. Keep the qui
 - [NHVR, HVNL reform implementation](https://www.nhvr.gov.au/law-policies/hvnl-reform-implementation)
 - [NHVR, Mass exceptions (tri axle group at 21 t)](https://www.nhvr.gov.au/road-access/mass-and-dimension/mass-limits/mass-exceptions)
 - [Inland Rail, Progress update](https://inlandrail.com.au/progress/)
+
+> ### Data Note
+>
+> Mass limits and licence rules in this part are the ones in force from 1 August 2026 in the HVNL states. WA and the NT set their own, and Parts C and D cover both.
+
+<div class="qsep"></div>
+
+> ### Quick Recap
+>
+> Road moves most general freight; rail leads only on the long haul to Perth, and every move to Tasmania has a sea leg. Learn the words on the paperwork, know which Chain of Responsibility roles your business holds, and check the licence class before anyone climbs into the cab.

@@ -1,11 +1,1 @@
-{"w":1240,"h":230,"title":"Five Steps Keep a Roadside Stop Short","items":[
-{"type":"box","center":true,"x":0,"y":60,"w":220,"h":150,"title":"1. Pull over","lines":["somewhere safe,","engine off if asked"]},
-{"type":"arrow","points":[[220,135],[255,135]]},
-{"type":"box","center":true,"x":255,"y":60,"w":220,"h":150,"title":"2. Hand it over","lines":["keep documents","in one folder"]},
-{"type":"arrow","points":[[475,135],[510,135]]},
-{"type":"box","center":true,"x":510,"y":60,"w":220,"h":150,"title":"3. Facts only","lines":["ask for advice","before talking fault"]},
-{"type":"arrow","points":[[730,135],[765,135]]},
-{"type":"box","center":true,"x":765,"y":60,"w":220,"h":150,"title":"4. Read, then sign","lines":["ask for a copy"]},
-{"type":"arrow","points":[[985,135],[1020,135]]},
-{"type":"box","center":true,"fill":"yellow","x":1020,"y":60,"w":220,"h":150,"title":"5. Note it down","lines":["officer's name,","time and place"]}
-]}
+{"w": 1240, "h": 230, "title": "Five Steps Keep A Roadside Stop Short", "items": [{"type": "box", "center": true, "x": 0, "y": 60, "w": 220, "h": 150, "title": "1. Pull over", "lines": ["somewhere safe,", "engine off if asked"]}, {"type": "arrow", "points": [[220, 135], [255, 135]]}, {"type": "box", "center": true, "x": 255, "y": 60, "w": 220, "h": 150, "title": "2. Hand it over", "lines": ["keep documents", "in one folder"]}, {"type": "arrow", "points": [[475, 135], [510, 135]]}, {"type": "box", "center": true, "x": 510, "y": 60, "w": 220, "h": 150, "title": "3. Facts only", "lines": ["ask for advice", "before talking fault"]}, {"type": "arrow", "points": [[730, 135], [765, 135]]}, {"type": "box", "center": true, "x": 765, "y": 60, "w": 220, "h": 150, "title": "4. Read, then sign", "lines": ["ask for a copy"]}, {"type": "arrow", "points": [[985, 135], [1020, 135]]}, {"type": "box", "center": true, "fill": "yellow", "x": 1020, "y": 60, "w": 220, "h": 150, "title": "5. Note it down", "lines": ["officer's name,", "time and place"]}]}

@@ -54,7 +54,7 @@ Source: [NSW Government](https://www.nsw.gov.au/driving-boating-and-transport/dr
 
 **Tip for operators:** check every driver's licence class and expiry before their first shift, and again every year. Driving outside your class is the driver's offence, but letting it happen is yours.
 
-## Chapter 2: Am I Fit to Drive Today?
+## Chapter 2: Am I Fit To Drive Today?
 
 From 1 August 2026, the HVNL says you must not drive a heavy vehicle over 4.5 t if you are unfit to drive it safely, for any reason. That covers fatigue, illness, injury, stress, mental health, drugs and alcohol ([NHVR](https://www.nhvr.gov.au/safety-accreditation-compliance/human-factors/unfit-to-drive)). Before this change the duty only covered fatigue.
 
@@ -72,7 +72,7 @@ If any answer worries you, tell your scheduler before you start, not halfway thr
 
 Answer the three questions honestly. One doubtful answer is enough to stop and speak up; the law puts the duty on you and on anyone who pressures you.
 
-### Alcohol Limits for Heavy Vehicle Drivers
+### Alcohol Limits For Heavy Vehicle Drivers
 
 | State or territory | Limit | Applies to |
 | --- | --- | --- |
@@ -106,13 +106,13 @@ Routine medicals by state for heavy vehicle licence holders ([Austroads](https:/
 
 Operators with fatigue accreditation (ACH, or legacy BFM or AFM) must also have their drivers medically assessed against the commercial standard: every 3 years for drivers under 50, and every year from 50 ([Austroads](https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive/for-health-professionals/frequently-asked-questions)).
 
-## Chapter 3: Work and Rest Hours
+## Chapter 3: Work And Rest Hours
 
 If you drive a fatigue regulated heavy vehicle in an HVNL state, the law caps your work and sets minimum rest in rolling windows of time. A fatigue regulated heavy vehicle is a truck or combination over 12 t GVM or GCM, a bus over 4.5 t built for more than 12 adults, or a truck over 12 t with a machine attached ([NHVR](https://wws.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/record-keeping-requirements)).
 
 "Work" means more than driving. Loading, unloading, paperwork, refuelling, cleaning and inspecting the truck all count as work time.
 
-### Standard Hours for Solo Drivers
+### Standard Hours For Solo Drivers
 
 | In any period of | Maximum work | Minimum rest |
 | --- | --- | --- |
@@ -129,7 +129,7 @@ Notice the 24 hour bar: half of every day must be time off work, and 7 hours of 
 
 Source: [NHVR](https://www.nhvr.gov.au/work-and-rest). These numbers did not change on 1 August 2026. A night rest break is 7 continuous hours of stationary rest taken between 10 pm and 8 am. Stationary rest means out of the truck, or in an approved sleeper berth while the truck is parked.
 
-### Standard Hours for Two Up Drivers
+### Standard Hours For Two Up Drivers
 
 Two drivers sharing a truck with an approved sleeper berth can rest while the truck moves, but their weekly limits are lower ([NHVR](https://www.nhvr.gov.au/work-and-rest)):
 
@@ -151,7 +151,7 @@ Rest in a moving sleeper berth only counts if it comes before the driver's major
 
 From 1 August 2026, the old Basic Fatigue Management (BFM) and Advanced Fatigue Management (AFM) options are replaced by Alternative Compliance Hours, run under the new Heavy Vehicle Accreditation scheme. ACH lets an accredited operator use longer or more flexible hours, including NHVR template tables based on the old BFM schedules. Existing BFM and AFM accreditations stay valid until they expire. If you drive for an accredited operator, ask which hours you are working under, and carry proof.
 
-### WA and the NT
+### WA And The NT
 
 - **WA:** fatigue sits under the Work Health and Safety (General) Regulations 2022, Part 4.10, plus a code of practice. It catches more vehicles than the HVNL: any goods vehicle over **4.5 t GVM** carrying for hire or reward, when the driver works more than 60 hours a week, more than 10 hours in 24 on more than one day a week, or between midnight and 5 am more than once a week ([WorkSafe WA](https://www.worksafe.wa.gov.au/publications/fact-sheet-driving-commercial-vehicles)).
 - **NT:** there are no set hours. Fatigue is managed as a general work health and safety duty. Once you cross into an HVNL state, the HVNL table applies; if any part of the trip is in WA, the WA rules apply for the whole trip ([NT Gov](https://nt.gov.au/driving/industry/fatigue-management/operating-across-borders)).
@@ -171,27 +171,27 @@ In WA a break of less than 30 minutes still counts as work time. The 72 hour rul
 
 **Tool:** T14 Trip and hours planner checks a planned run against these windows before you leave. It plans; it never replaces your diary.
 
-## Chapter 4: Work Diaries and Records
+## Chapter 4: Work Diaries And Records
 
 Your records are your proof. If an inspector cannot see that you rested, the law assumes you did not.
 
-### When You Need a Work Diary (HVNL States)
+### When You Need A Work Diary (HVNL States)
 
 You must carry a work diary when driving a fatigue regulated heavy vehicle if ([NHVR](https://wws.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/record-keeping-requirements)):
 
 - you drive 100 km or more from your base on standard hours, or did so in the last 28 days, or
 - you work under accredited or exemption hours (ACH, or a transitional BFM or AFM accreditation), or did so in the last 28 days.
 
-### Local Work: Within 100 km of Base
+### Local Work: Within 100 km Of Base
 
 No diary is needed, but a local area record is. It shows the dates you drove, each vehicle's rego, and your daily and weekly totals of work and rest. Fill it in within 24 hours of finishing work for the day and hand it to your record keeper within 21 days. The record keeper keeps it for three years. If you are self employed, you are your own record keeper, so you also keep your rosters, trip schedules and payment records.
 
-### Written or Electronic
+### Written Or Electronic
 
 - **Written work diary:** bought from your state licensing agency (in NSW, from Service NSW, in person with your licence) ([Service NSW](https://www.service.nsw.gov.au/transaction/request-a-national-driver-work-diary-log-book)). From 1 August 2026 the daily sheets are simpler, and older diaries can be used until they are full, with the new rules applying to them ([NHVR](https://www.nhvr.gov.au/document/883)). Written diaries count in 15 minute blocks, with work rounded up.
 - **Electronic work diary (EWD):** an approved app or device, usually a paid subscription through your operator. EWDs count to the minute rather than in 15 minute blocks. To allow for that, going over a work limit by a total of 8 minutes or less in a 24 hour period is not treated as a breach. The allowance never applies to rest time, and from 1 August 2026 it is set out in section 5 of the Fatigue Management Regulation.
 
-### Five Habits That Keep You Out of Trouble
+### Five Habits That Keep You Out Of Trouble
 
 1. Fill in each line as it happens, not at the end of the day.
 2. Record the location where every break starts and ends.
@@ -224,7 +224,7 @@ Weight alone never holds a load. A tall item like a fridge or a safe can tip for
 
 Common General Mass Limits from 1 August 2026: steer axle 6.0 t (6.5 t for a complying steer axle vehicle, and up to 7.0 t for some Euro VI trucks on steer tyres 315 mm or wider), single axle with dual tyres 9.0 t, tandem axle group 17.0 t, tri axle group 21.0 t ([NHVR](https://www.nhvr.gov.au/document/247)). Part D, Chapter 2 has the full list.
 
-### Before You Sign for a Load
+### Before You Sign For A Load
 
 - Compare the paperwork weight with what is on the deck. If a pallet looks heavier than declared, ask.
 - Look at how the load is placed. Heavy items low and over the axles; nothing leaning on the gates.
@@ -232,7 +232,7 @@ Common General Mass Limits from 1 August 2026: steer axle 6.0 t (6.5 t for a com
 - For containers, check the Container Weight Declaration matches the container number.
 - Recheck restraint after the first few kilometres and at every stop. Loads settle.
 
-### When the Load Is Wrong
+### When The Load Is Wrong
 
 Say so before you leave, and write it down: who you told, the time, and what they said. You can refuse to drive an unsafe or overloaded vehicle. Chapter 7 explains why you are protected when you do.
 
@@ -242,7 +242,7 @@ Speak up at the dock, not at the roadside. A note of who you told and when is yo
 
 **Tools:** T11 Axle load and pallet placement and T13 Load restraint calculator (Part D) help you plan. They do not replace a weighbridge or the Load Restraint Guide.
 
-## Chapter 6: Vehicle Condition and Speed
+## Chapter 6: Vehicle Condition And Speed
 
 A defect you knew about, or should have found on your pre start, is your problem as well as the owner's.
 
@@ -304,17 +304,17 @@ Source: [NHVR, Heavy vehicle defects](https://www.nhvr.gov.au/safety-accreditati
 
 The limit that applies is always the lowest of the road rules, your notice or permit, the road conditions and the signs.
 
-## Chapter 7: Chain of Responsibility from the Cab
+## Chapter 7: Chain Of Responsibility From The Cab
 
 Chain of Responsibility (CoR) means the people behind the truck share the blame when their decisions push a driver into breaking the law. It exists to stop the driver being the only one who pays.
 
-### Who Is in the Chain
+### Who Is In The Chain
 
 Under the HVNL, the chain includes the employer, prime contractor, operator, scheduler, consignor, consignee, loading manager, loader, unloader and packer. Each must do all that is reasonably practicable to make sure their part of the transport task is safe. Company directors and managers carry their own duty to make sure the business complies.
 
 The driver is not one of these parties, because the driver already carries direct duties: hours, fitness, load, vehicle and speed. CoR is what protects you from pressure that comes from above.
 
-### What Others Cannot Ask of You
+### What Others Cannot Ask Of You
 
 It is an offence for anyone to ask, direct or contract you in a way they know, or ought to know, would make you:
 
@@ -333,7 +333,7 @@ The 1 August 2026 reform widened this rule to cover any heavy vehicle over 4.5 t
 - Being told to wait unpaid at a dock, then make up the time on the road.
 - A load you are told to take even though it is clearly over.
 
-### What to Do
+### What To Do
 
 1. Say no calmly, and give the reason: "I can't make that time legally."
 2. Write it down: who asked, when, what was said.
@@ -346,7 +346,7 @@ Saying no and writing it down are worth doing every time, even if you decide not
 
 A client who sets impossible times is breaking the law, not you for refusing them.
 
-## Chapter 8: Roadside Intercepts and Penalties
+## Chapter 8: Roadside Intercepts And Penalties
 
 A roadside check goes quickly when your paperwork is in order and your answers are short and true.
 
@@ -367,7 +367,7 @@ A roadside check goes quickly when your paperwork is in order and your answers a
 - A look over the vehicle, and a weigh on a scale or weighbridge
 - A breath test and a drug test
 
-### At the Stop
+### At The Stop
 
 1. Pull over where it is safe, engine off if asked.
 2. Hand over what is asked for. Keep your documents together in one folder so you are not searching.
@@ -396,7 +396,7 @@ An on the spot fine is 10% of the maximum, and only offences with a maximum of $
 
 If you receive an infringement you think is wrong, you can ask for a review or elect to go to court. Get advice first: in a heavy vehicle, a conviction can follow you into every job application.
 
-## Chapter 9: Pay and Contracts
+## Chapter 9: Pay And Contracts
 
 How you are paid depends first on one question: are you an employee or a contractor? The answer sets which laws protect you.
 
@@ -413,7 +413,7 @@ They set minimum rates by grade, overtime, allowances and breaks. Rates change e
 
 Use the solid line to see how far pay has moved and the dotted line to budget ahead. The award rises every 1 July, so a contract or quote signed in June should already allow for the next step.
 
-### Owner Drivers and Contractors
+### Owner Drivers And Contractors
 
 | Where you work | Extra protection |
 | --- | --- |
@@ -423,7 +423,7 @@ Use the solid line to see how far pay has moved and the dotted line to budget ah
 | WA | Owner Drivers (Contracts and Disputes) Act 2007: 90 days notice for contracts of 90 days or more, Road Freight Transport Industry Tribunal ([WA DoT](https://transport.wa.gov.au/Freight-Ports/owner-driver-laws.asp)) |
 | SA, TAS, ACT, NT | No state scheme; federal law only |
 
-### Federal Rules for Every State
+### Federal Rules For Every State
 
 The Fair Work Act now lets the Fair Work Commission make orders for road transport contractors and contract chains. The first one matters for fuel: the **Road Transport Contractual Chain Order for fuel cost recovery** restarts on **23 November 2026**. Hirers must review your rates at least monthly to cover fuel, or pay an agreed fuel levy, until diesel stays under $2 a litre for four weeks in a row ([Fair Work Ombudsman](https://www.fairwork.gov.au/about-us/workplace-laws/fair-work-commission-orders/fuel-cost-recovery-road-transport-order)). There is no general minimum rates order for owner drivers yet.
 
@@ -437,7 +437,7 @@ The Fair Work Act now lets the Fair Work Commission make orders for road transpo
 
 If a business treats you like an employee (sets your hours, supplies the truck, bans other work) but calls you a contractor, get advice. That can be sham contracting.
 
-## Chapter 10: Health on the Road
+## Chapter 10: Health On The Road
 
 The truck gets a service schedule; the driver usually does not. Long hours sitting, broken sleep, servo food and time away from home wear people down, and the unfit to drive duty now makes your health a legal matter as well as a personal one.
 
@@ -447,13 +447,13 @@ The truck gets a service schedule; the driver usually does not. Long hours sitti
 - Snoring, gasping at night or nodding off during the day can mean sleep apnoea. It is common in drivers and treatable, and an untreated case can cost you your licence.
 - A short nap at a safe stop beats pushing through. Caffeine only buys a little time.
 
-### Food, Water and Movement
+### Food, Water And Movement
 
 - Carry water and drink through the day, more in the north and the inland heat.
 - Pack food where you can, so the only choice is not the servo bain marie.
 - At every break, walk around the truck and stretch. It doubles as your load check.
 
-### Heat, Cold and Remote Country
+### Heat, Cold And Remote Country
 
 - In outback heat, carry extra water for a breakdown, not just for drinking on the move.
 - Tell someone your route and expected arrival when you run remote. Mobile coverage drops out on long stretches.
@@ -492,3 +492,7 @@ The NT guidance was written before 1 August 2026 and still names BFM and AFM. Re
 - [ ] Alcohol limit for the state ahead checked (Chapter 2)
 - [ ] Speed limit for your vehicle class in the state ahead checked (Chapter 6)
 - [ ] Someone knows your route and arrival time if you are heading remote
+
+> ### Quick Recap
+>
+> Before every shift: the right licence, fit to drive, hours planned, diary ready, load checked and the truck walked around. If anyone pushes you to break a rule, say no, write it down and report it. Your licence is your living.

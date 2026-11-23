@@ -82,13 +82,13 @@ table.tighter { font-size: 8pt; line-height: 1.22; }
 table.tighter th { padding: 1mm 1.4mm; }
 table.tighter td { padding: 0.8mm 1.4mm; }
 .notes .np { font-size: 8.5pt; color: var(--quiet); margin-top: 0.8mm; }
-.glance { background: var(--blue-tint); border-radius: 2.5mm; padding: 4mm 5mm 3mm; margin-top: 4mm; border-top: 1.6mm solid var(--navy); }
-.glance .gt { font-size: 12pt; font-weight: 800; color: var(--navy); margin-bottom: 2mm; }
+.glance { background: var(--blue-tint); border-radius: 2.5mm; padding: 3mm 5mm 2.2mm; margin-top: 3mm; border-top: 1.6mm solid var(--navy); }
+.glance .gt { font-size: 11.5pt; font-weight: 800; color: var(--navy); margin-bottom: 1.2mm; }
 .glance .rows { display: grid; grid-template-columns: 1fr 1fr; column-gap: 8mm; }
-.glance .gr { display: flex; font-size: 9.6pt; padding: 0.8mm 0; border-bottom: 0.5pt solid #C9D6EA; }
+.glance .gr { display: flex; font-size: 9.2pt; padding: 0.5mm 0; border-bottom: 0.5pt solid #C9D6EA; }
 .glance .gr span:first-child { flex: 1; }
 .glance .gr .tp { font-weight: 700; color: var(--navy); min-width: 10mm; text-align: right; }
-.glance .gn { font-size: 8.8pt; color: var(--quiet); margin-top: 2mm; }
+.glance .gn { font-size: 8.5pt; color: var(--quiet); margin-top: 1.4mm; }
 blockquote { margin: 1mm 0 4mm; padding: 3mm 4.5mm 2mm; background: var(--cream); border-left: 1.6mm solid var(--orange); border-radius: 0 2mm 2mm 0; font-size: 10pt; }
 blockquote h3 { margin: 0 0 1.5mm; font-size: 11.5pt; }
 blockquote p { margin-bottom: 1.6mm; }
@@ -138,6 +138,12 @@ p.key { font-size: 8.8pt; color: var(--quiet); text-align: center; margin: -2mm 
 .cover .cauth { font-size: 15pt; color: #DCE4F0; }
 .cover .cauth b { color: #fff; font-weight: 700; }
 .cover { background: var(--navy); color: #fff; }
+.back .bk { align-items: center; justify-content: center; text-align: center; }
+.back .lock { margin: 0 0 16mm; }
+.back .bt { font-size: 30pt; font-weight: 900; line-height: 1.1; }
+.back .bs { font-size: 16pt; font-weight: 700; margin-top: 3mm; color: #DCE4F0; }
+.back .cbar { width: 30mm; height: 2mm; background: var(--orange); margin: 12mm 0; }
+.back .bl { font-size: 10.5pt; color: #DCE4F0; }
 .cover .inner { position: absolute; inset: 0; padding: 28mm 22mm; display: flex; flex-direction: column; }
 .cover .kick { color: var(--orange); font-weight: 700; letter-spacing: 0.16em; font-size: 11pt; text-transform: uppercase; }
 .cover .t1 { font-size: 46pt; font-weight: 900; line-height: 1.02; margin-top: 8mm; }
@@ -150,9 +156,9 @@ p.key { font-size: 8.8pt; color: var(--quiet); text-align: center; margin: -2mm 
 .cover .foot { margin-top: 8mm; font-size: 9pt; color: #9FB0C8; display: flex; justify-content: space-between; }
 /* contents */
 .toc h2 { margin-top: 0; }
-.toc-part { margin: 4mm 0 0.8mm; font-weight: 700; color: var(--navy); font-size: 11pt; display: flex; justify-content: space-between; border-bottom: 0.8pt solid var(--orange); padding-bottom: 0.8mm; }
+.toc-part { margin: 3.4mm 0 0.8mm; font-weight: 700; color: var(--navy); font-size: 11pt; display: flex; justify-content: space-between; border-bottom: 0.8pt solid var(--orange); padding-bottom: 0.8mm; }
 .toc-aud { font-size: 8.8pt; color: var(--quiet); margin: 0 0 1mm; }
-.toc-row { display: flex; justify-content: space-between; font-size: 10pt; padding: 0.62mm 0 0.62mm 4mm; color: var(--ink); }
+.toc-row { display: flex; justify-content: space-between; font-size: 9.8pt; padding: 0.42mm 0 0.42mm 4mm; color: var(--ink); }
 .toc-row span:first-child { flex: 1; }
 .toc-row .dots { flex: 1; border-bottom: 0.6pt dotted var(--rule); margin: 0 2mm 1.2mm; }
 </style>
@@ -225,7 +231,7 @@ function fillGap(body, partEnd) {
   if (!partEnd) growSketches(body);
   let r = remaining(body);
   if (!body.children.length) return;
-  if (partEnd && r >= 45 * MM && curPart) {
+  if (partEnd && r >= 30 * MM && curPart) {
     const rows = curPart._chapters.filter(h => /^Chapter/.test(h.textContent));
     const g = el('div', 'glance', `<div class="gt">Part ${curPart.dataset.part} at a Glance</div>` +
       '<div class="rows">' + rows.map(h => `<div class="gr"><span>${h.textContent}</span><span class="tp" data-ref="${h.dataset.ref}"></span></div>`).join('') + '</div>' +
@@ -474,6 +480,10 @@ async function run() {
   book.querySelectorAll('.glance .tp').forEach(t => { const h = book.querySelector(`#book h2[data-ref="${t.dataset.ref}"]`); t.textContent = h ? pageOf(h) : ''; });
   // empty last page cleanup
   pages = pages.filter(p => { const b = p.querySelector('.body'); if (b && b.children.length === 0) { p.remove(); return false; } return true; });
+  // back cover
+  const back = el('div', 'page cover back');
+  back.innerHTML = `<div class="inner bk"><div class="lock"><div class="badge"><img src="../brand/JAG_Logo.svg" alt=""></div><div class="lt"><div class="pb">Playbook</div><div class="vl">${CFG.vol}</div></div></div><div class="bt">${CFG.title}</div><div class="bs">${CFG.title_sub}</div><div class="cbar"></div><div class="bl">Written by ${CFG.author} · ${CFG.brand} Playbook · ${CFG.brand_long}</div></div>`;
+  book.appendChild(back); pages.push(back);
   report.pages = pages.length;
   window.__report = report;
   window.__done = true;

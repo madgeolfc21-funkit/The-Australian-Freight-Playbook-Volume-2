@@ -1,4 +1,4 @@
-# Part F: Rail, Air, Sea and Last Mile
+# Part F: Rail, Air, Sea And Last Mile
 
 Supplying a Continent · Vol. 2 · Australian Logistics
 
@@ -14,7 +14,7 @@ Part F covers the other modes at working depth: enough for a freight coordinator
 | Ship to or from Tasmania, or by container | Chapter 4, Sea and Bass Strait |
 | Deliver parcels to homes | Chapter 5, Last mile and ecommerce |
 
-## Chapter 1: Choosing the Mode
+## Chapter 1: Choosing The Mode
 
 Pick the cheapest mode that still arrives in time, then check it is reliable enough for this freight. Every mode gets the same three tests: does it meet the deadline door to door, what does it cost on chargeable weight, and how much risk does it add.
 
@@ -44,7 +44,7 @@ Rail and sea are cheaper but miss the deadline, so they are out. Of the two left
 
 T05 weighs cost against service at 60:40 by default; change the weighting to suit the freight.
 
-## Chapter 2: Rail and Intermodal
+## Chapter 2: Rail And Intermodal
 
 Rail carries most of Australia's bulk freight and most non bulk freight on the long haul to Perth. On the east coast it carries only a small share, which is why road owns the Melbourne to Sydney lane. Nationally, only 16% of non bulk freight moved by rail in 2024 to 25 ([Infrastructure Australia](https://www.infrastructureaustralia.gov.au/ipl/high-productivity-freight-networks/rail-freight)).
 
@@ -56,7 +56,7 @@ Rail carries most of Australia's bulk freight and most non bulk freight on the l
 - **Density:** heavy freight in volume suits rail; light, bulky freight fills a container before it earns its keep.
 - **Time to spare:** trains run to timetables, and the terminal steps add time. If the receiver can wait a day or two, rail is worth a quote.
 
-### Corridors and Operators
+### Corridors And Operators
 
 | Corridor | Rail's role | Notes |
 | --- | --- | --- |
@@ -88,15 +88,15 @@ Air charges on the greater of actual weight and volumetric weight, commonly at 1
 | Size and weight per piece | Smaller aircraft on regional routes take smaller and lighter pieces |
 | Delivery at the other end | Collect from the airport, or book a road delivery leg |
 
-### Lithium Batteries and Other Dangerous Goods
+### Lithium Batteries And Other Dangerous Goods
 
 Lithium batteries are the most common dangerous goods problem in air freight. Batteries shipped on their own, without equipment, face the strictest limits, and some can only go on cargo aircraft. Batteries packed with or inside equipment are allowed in more cases, with labelling and quantity limits. Aerosols, paints, adhesives, fuels, gases and some cleaning products are also restricted. Declare every one: undeclared dangerous goods by air carry serious penalties, and the airline's dangerous goods desk is the place to check before you book.
 
-### Freight to Remote Communities
+### Freight To Remote Communities
 
 Many remote communities rely on air for urgent freight, and on road or barge for everything else. Weight and size limits on small aircraft are tight, prices are high, and weather and wet season closures can strand freight. Plan regular supplies by road or sea well ahead, and keep air for what cannot wait.
 
-## Chapter 4: Sea and Bass Strait
+## Chapter 4: Sea And Bass Strait
 
 Every interstate move to or from Tasmania includes a sea leg. For the rest of the country, sea means containers through the ports and a small amount of coastal shipping.
 
@@ -108,7 +108,11 @@ Freight crosses on the Spirit of Tasmania ferries and on dedicated freight ships
 - **Price the whole chain:** road to the port, the crossing, and road from the port. Ask whether the quote includes wharf and handling charges.
 - **Check the Tasmanian Freight Equalisation Scheme.** It provides freight assistance to eligible businesses that ship eligible goods by sea across Bass Strait, northbound and southbound, and to King Island and the Furneaux Group ([Services Australia](https://www.servicesaustralia.gov.au/tasmanian-freight-equalisation-scheme)). Assistance rose by 25% from July 2025, and an independent review of the scheme was due to report to the Australian Government by mid 2026, so check the current rules before you rely on it.
 
-### Containers in Brief
+> ### Quick Recap
+>
+> For Tasmania, the sailing sets the transit time, the quote has to cover both road legs and the crossing, and the Tasmanian Freight Equalisation Scheme may cover part of the sea freight cost.
+
+### Containers In Brief
 
 | Item | What to know |
 | --- | --- |
@@ -117,7 +121,7 @@ Freight crosses on the Spirit of Tasmania ferries and on dedicated freight ships
 | Weight | Road limits at each end can be lower than the container's own limit; check the truck can legally carry it (Part D) |
 | Packing | The packer declares the verified gross mass for export containers; restraint inside the container matters as much as on a truck |
 
-### Detention and Demurrage
+### Detention And Demurrage
 
 Shipping lines and terminals give a set number of free days. After that:
 
@@ -126,7 +130,7 @@ Shipping lines and terminals give a set number of free days. After that:
 
 Both run per container per day and climb fast. Book the delivery truck, the unload and the empty return before the ship arrives. Part B, Chapter 12 shows how free days work on an import, and Vol. 1, Warehouse Operations has the full guide.
 
-## Chapter 5: Last Mile and Ecommerce
+## Chapter 5: Last Mile And Ecommerce
 
 The last mile is the most expensive part of a parcel's journey per kilometre, and the part your customer sees. Choose the service by where the parcels go and what the customer expects, not only by price.
 
@@ -140,7 +144,7 @@ The last mile is the most expensive part of a parcel's journey per kilometre, an
 | Same day and on demand | Urgent metro deliveries | Price per drop; coverage only in the main cities |
 | Your own vans | Dense local delivery where you control the customer experience | The second rule book for light vehicles (Part E, Chapter 6) |
 
-### Failed Deliveries and Returns
+### Failed Deliveries And Returns
 
 A failed delivery costs a second trip, a redelivery fee or a trip to a collection point, and often a customer complaint. Many failures can be prevented at checkout:
 
@@ -151,7 +155,7 @@ A failed delivery costs a second trip, a redelivery fee or a trip to a collectio
 
 Returns are a freight cost too. Price them in T07 alongside outbound freight, and decide in advance who pays.
 
-### Rural and Remote
+### Rural And Remote
 
 Delivery to rural and remote addresses takes longer and costs more, and some carriers do not go there at all. Set honest delivery times by postcode, and test the slowest postcodes you serve with a real parcel before you promise anything on your website.
 
@@ -168,7 +172,7 @@ Delivery to rural and remote addresses takes longer and costs more, and some car
 
 Part A, Chapter 1 has typical transit times by lane, and Part B, Chapter 10 the state by state shipping traps.
 
-## Chapter 7: Tools and Sources
+## Chapter 7: Tools And Sources
 
 | Tool | Use it when | Chapter |
 | --- | --- | --- |
@@ -189,3 +193,7 @@ T05 compares cost, time and service. It does not include emissions by mode, beca
 - [Spirit of Tasmania, IV and V inaugural voyages, 31 October 2026](https://www.spiritoftasmania.com.au/media-releases/spirit-of-tasmania-iv-and-v-set-sail-on-historic-inaugural-voyages/)
 - [Australian Government response to the Senate Select Committee report on the Tasmanian Freight Equalisation Scheme, March 2026](https://www.infrastructure.gov.au/sites/default/files/documents/tfes-review-australian-government-response-final.pdf)
 - Cubic factors and the worked example: T05 sample inputs
+
+> ### Data Note
+>
+> Rail and sea transit times are quoted terminal to terminal. T06 records the full door to door days by lane and mode, truck legs included, so every quote is compared on the same basis.

@@ -8,7 +8,7 @@ A plain words guide to Australian freight for the shipper and receiver, the driv
 
 | Folder or file | What it holds |
 | --- | --- |
-| `Supplying_a_Continent_Vol2_Working_Draft.pdf` | The latest full build of the book |
+| `Supplying_a_Continent_Vol2.pdf` | The published book, first edition, November 2026, with bookmarks for every part and chapter |
 | `vol2/md` | The text, one file per part (front, A to G) |
 | `vol2/tools` | The 30 tools (T01 to T30) and the forms pack |
 | `vol2/diagrams` | Specs for the hand drawn pencil diagrams |
@@ -24,7 +24,7 @@ A plain words guide to Australian freight for the shipper and receiver, the driv
 cd engine && pnpm install
 node diagrams.js ../vol2
 python3 build.py ../vol2
-node render.js ../Supplying_a_Continent_Vol2_Working_Draft.pdf
+node render.js ../Supplying_a_Continent_Vol2.pdf
 ```
 
 Sketches are placed by lines such as `[[sketch C01 third]]` in the Markdown (sizes: quarter, fifth, third, half). A sketch shows as a placeholder until its image is saved in `vol2/img/sketches`.

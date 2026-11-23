@@ -1,4 +1,4 @@
-# Part G: Numbers and Tool Index
+# Part G: Numbers And Tool Index
 
 Supplying a Continent · Vol. 2 · Australian Logistics
 
@@ -95,7 +95,7 @@ The figures in the tools go out of date on a known timetable. Update them on the
 
 Every tool has a "checked as at" date on its Start here tab. Change that date each time you update its figures, so anyone using it knows how fresh the numbers are. The list of figures that could not be found from a primary source is kept on the toolkit page, where it can be updated as gaps are filled.
 
-## Licence and Sources
+## Licence And Sources
 
 Supplying a Continent: Australian Logistics (J.A.G. Playbook, Vol. 2) and its 30 tools and forms pack are © 2026 George Madouris. All rights reserved. You may print this book and use, copy and change the tools within your own business. You may not resell, republish or share the book or the tools publicly without written permission.
 

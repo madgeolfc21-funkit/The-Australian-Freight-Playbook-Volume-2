@@ -1,14 +1,1 @@
-{"w":1230,"h":530,"title":"A Wrong Load Gets Fixed Before You Leave, or You Stay Put","items":[
-{"type":"box","center":true,"x":0,"y":60,"w":300,"h":95,"title":"Check the load","lines":["before you sign for it"]},
-{"type":"arrow","points":[[300,107],[380,107]]},
-{"type":"diamond","cx":520,"cy":107,"w":280,"h":120,"lines":["Anything wrong?"]},
-{"type":"arrow","points":[[660,107],[820,107]],"label":[720,94,"no"]},
-{"type":"box","center":true,"fill":"yellow","x":820,"y":55,"w":410,"h":110,"title":"Drive away","lines":["recheck after the first few km","and at every stop"]},
-{"type":"arrow","points":[[520,167],[520,240]],"label":[535,212,"yes"]},
-{"type":"box","center":true,"x":290,"y":240,"w":460,"h":95,"title":"Say so before you leave","lines":["write down who, when and what they said"]},
-{"type":"arrow","points":[[750,287],[890,287]]},
-{"type":"diamond","cx":1025,"cy":287,"w":260,"h":120,"lines":["Fixed?"]},
-{"type":"arrow","points":[[1025,227],[1025,167]],"label":[1040,205,"yes"]},
-{"type":"arrow","points":[[1025,347],[1025,420]],"label":[1040,392,"no"]},
-{"type":"box","center":true,"fill":"orange","x":820,"y":420,"w":410,"h":95,"title":"Refuse to drive","lines":["the law protects you (Chapter 7)"]}
-]}
+{"w": 1230, "h": 530, "title": "A Wrong Load Gets Fixed Before You Leave, Or You Stay Put", "items": [{"type": "box", "center": true, "x": 0, "y": 60, "w": 300, "h": 95, "title": "Check the load", "lines": ["before you sign for it"]}, {"type": "arrow", "points": [[300, 107], [380, 107]]}, {"type": "diamond", "cx": 520, "cy": 107, "w": 280, "h": 120, "lines": ["Anything wrong?"]}, {"type": "arrow", "points": [[660, 107], [820, 107]], "label": [720, 94, "no"]}, {"type": "box", "center": true, "fill": "yellow", "x": 820, "y": 55, "w": 410, "h": 110, "title": "Drive away", "lines": ["recheck after the first few km", "and at every stop"]}, {"type": "arrow", "points": [[520, 167], [520, 240]], "label": [535, 212, "yes"]}, {"type": "box", "center": true, "x": 290, "y": 240, "w": 460, "h": 95, "title": "Say so before you leave", "lines": ["write down who, when and what they said"]}, {"type": "arrow", "points": [[750, 287], [890, 287]]}, {"type": "diamond", "cx": 1025, "cy": 287, "w": 260, "h": 120, "lines": ["Fixed?"]}, {"type": "arrow", "points": [[1025, 227], [1025, 167]], "label": [1040, 205, "yes"]}, {"type": "arrow", "points": [[1025, 347], [1025, 420]], "label": [1040, 392, "no"]}, {"type": "box", "center": true, "fill": "orange", "x": 820, "y": 420, "w": 410, "h": 95, "title": "Refuse to drive", "lines": ["the law protects you (Chapter 7)"]}]}

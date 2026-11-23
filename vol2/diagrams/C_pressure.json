@@ -1,13 +1,1 @@
-{"w":1240,"h":600,"title":"Pressure to Break the Law Gets a No, a Note and a Report","items":[
-{"type":"box","center":true,"x":0,"y":60,"w":360,"h":95,"title":"Someone pushes you","lines":["to speed, skip rest or overload"]},
-{"type":"arrow","points":[[360,107],[410,107]]},
-{"type":"box","center":true,"x":410,"y":60,"w":390,"h":95,"title":"Say no, give the reason","lines":["I can't make that time legally"]},
-{"type":"arrow","points":[[800,107],[840,107]]},
-{"type":"box","center":true,"x":840,"y":60,"w":400,"h":95,"title":"Write it down","lines":["who, when, what; keep messages"]},
-{"type":"arrow","points":[[1040,155],[1040,230]]},
-{"type":"diamond","cx":1040,"cy":300,"w":340,"h":140,"lines":["Danger right now?"]},
-{"type":"arrow","points":[[870,300],[700,300]],"label":[770,287,"yes"]},
-{"type":"box","center":true,"fill":"orange","x":300,"y":252,"w":400,"h":95,"title":"Call 000","lines":["a crash, a load coming off"]},
-{"type":"arrow","points":[[1040,370],[1040,430]],"label":[1055,408,"no"]},
-{"type":"box","center":true,"fill":"yellow","x":790,"y":430,"w":450,"h":150,"title":"Report it: 1800 931 785","lines":["NHVR Confidential Reporting Line","Mon to Fri, 7 am to 4.30 pm AEST","you can stay anonymous"]}
-]}
+{"w": 1240, "h": 600, "title": "Pressure To Break The Law Gets A No, A Note And A Report", "items": [{"type": "box", "center": true, "x": 0, "y": 60, "w": 360, "h": 95, "title": "Someone pushes you", "lines": ["to speed, skip rest or overload"]}, {"type": "arrow", "points": [[360, 107], [410, 107]]}, {"type": "box", "center": true, "x": 410, "y": 60, "w": 390, "h": 95, "title": "Say no, give the reason", "lines": ["I can't make that time legally"]}, {"type": "arrow", "points": [[800, 107], [840, 107]]}, {"type": "box", "center": true, "x": 840, "y": 60, "w": 400, "h": 95, "title": "Write it down", "lines": ["who, when, what; keep messages"]}, {"type": "arrow", "points": [[1040, 155], [1040, 230]]}, {"type": "diamond", "cx": 1040, "cy": 300, "w": 340, "h": 140, "lines": ["Danger right now?"]}, {"type": "arrow", "points": [[870, 300], [700, 300]], "label": [770, 287, "yes"]}, {"type": "box", "center": true, "fill": "orange", "x": 300, "y": 252, "w": 400, "h": 95, "title": "Call 000", "lines": ["a crash, a load coming off"]}, {"type": "arrow", "points": [[1040, 370], [1040, 430]], "label": [1055, 408, "no"]}, {"type": "box", "center": true, "fill": "yellow", "x": 790, "y": 430, "w": 450, "h": 150, "title": "Report it: 1800 931 785", "lines": ["NHVR Confidential Reporting Line", "Mon to Fri, 7 am to 4.30 pm AEST", "you can stay anonymous"]}]}

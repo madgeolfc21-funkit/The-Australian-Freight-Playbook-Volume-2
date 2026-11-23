@@ -1,4 +1,4 @@
-# Part E: Growing the Business
+# Part E: Growing The Business
 
 Supplying a Continent · Vol. 2 · Australian Logistics
 
@@ -6,7 +6,7 @@ Supplying a Continent · Vol. 2 · Australian Logistics
 
 Part E is the spine of this book: the order of steps to go from one truck to a 3PL, and what changes legally and financially at each stage. It is for the owner driver thinking about a second truck as much as the operator thinking about a warehouse.
 
-### There Is No Licence to Run Trucks, Except in WA
+### There Is No Licence To Run Trucks, Except In WA
 
 Australia has no general licence to run a trucking business. The Heavy Vehicle National Law relies on registration, driver licences, Chain of Responsibility duties and voluntary Heavy Vehicle Accreditation. Western Australia is the big exception. To run a restricted access vehicle there (any combination with more than one trailer, or a vehicle over the standard mass and dimension limits) you register as an operator with Main Roads WA, and most permits and orders also need WA Heavy Vehicle Accreditation. Vehicles of 8 t GVM or less are exempt. In practice it works like a licence. Forklift and crane work needs a High Risk Work Licence everywhere.
 
@@ -35,7 +35,7 @@ Every stage adds duties before it adds revenue. Set up each stage's systems befo
 
 T23 scores your readiness for the next stage against the set up list for it.
 
-## Chapter 1: Should You Buy the First Truck?
+## Chapter 1: Should You Buy The First Truck?
 
 Buy the truck when the numbers say yes, not when a customer says they have work. A truck costs money every week whether it moves or not, so the first question is how many loads a week it needs just to stand still.
 
@@ -49,7 +49,7 @@ The fixed costs (the truck, rego, insurance, overheads and the driver's wage) la
 2. **How many loads a week will you really get?** Count only work that is promised, not hoped for. Be honest about empty return km.
 3. **What if your biggest customer walks?** If one customer is more than half your work, losing them takes the truck below break even overnight. Line up a second source of work before you buy, or keep the finance small enough to survive the gap.
 
-### New or Used
+### New Or Used
 
 |  | New | Used |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ The fixed costs (the truck, rego, insurance, overheads and the driver's wage) la
 | Mass limits | Euro VI trucks get extra steer and drive mass from 1 August 2026 | Older trucks may not qualify |
 | Resale | Steep early depreciation | Flatter depreciation curve |
 
-### Checking a Used Truck
+### Checking A Used Truck
 
 T28 runs three checks before you hand over money:
 
@@ -78,7 +78,7 @@ There are four ways a new operator finds freight, and most start with the first 
 | Load boards | Market rate on the day | Low: job by job | Light | Rates that do not cover your cost per km; unknown customers |
 | Tenders | Set for the contract term | High once won | Heavy: safety systems, insurance, accreditation | Locking in a rate without a fuel or cost review clause |
 
-### What a Fair Rate Looks Like
+### What A Fair Rate Looks Like
 
 A fair rate covers your cost per km or per hour, a margin, and a fuel adjustment. Work it out from T09 and T10 before you accept any job, and walk away from work that only pays when nothing goes wrong.
 
@@ -86,7 +86,7 @@ A fair rate covers your cost per km or per hour, a margin, and a fuel adjustment
 - **State owner driver laws:** NSW, Victoria and WA have their own laws for owner drivers who contract to a hirer, covering written contracts, notice and disputes. Victoria also publishes rates and costs schedules as a guide; the 2025 to 2026 schedules list $99.67 an hour for a 6 axle semi and $64.36 an hour for a 12 t rigid. Its assumptions differ from T09's, so use it as a check, not a price list.
 - **Payment terms:** a rate paid in 60 days is worth less than the same rate paid in 14. Agree terms in writing before the first job.
 
-### Before You Subcontract to Someone, or They to You
+### Before You Subcontract To Someone, Or They To You
 
 T27 is a register of every subcontractor and owner driver you use: ABN, current insurances, a valid licence, accreditation, induction and a written agreement, with expiry dates tracked. Nobody gets a job until their row says Ready. If you subcontract to a carrier, expect them to ask you for the same, and have it ready: it is often what wins the work.
 
@@ -119,7 +119,7 @@ Most employee truck drivers are covered by the Road Transport and Distribution A
 
 The grade depends on the vehicle and the work; check the award's classifications and the Fair Work Ombudsman pay guide. Rates rise each 1 July (Part C has the trend chart).
 
-### What Arrives With the First Employee
+### What Arrives With The First Employee
 
 - [ ] Register for PAYG withholding with the ATO
 - [ ] Set up a super fund arrangement and Single Touch Payroll
@@ -158,7 +158,7 @@ T23 has a readiness check for each stage. Run the two truck check before you hir
 
 Around five trucks, the owner stops driving full time and starts running a business. The work moves from the cab to the office: dispatch, compliance, customers and cash.
 
-### What Changes at Five Trucks
+### What Changes At Five Trucks
 
 | Area | What to sort out | Where states differ |
 | --- | --- | --- |
@@ -183,7 +183,7 @@ If your terms are 30 days and debtor days sit at 50, customers are using your mo
 
 At five trucks, one idle truck is 20% of the fleet. T18 tracks days used, loaded km and revenue per truck against target. A truck that keeps missing target is the first one to sell, or the first one to put on a new customer.
 
-## Chapter 6: Adding Vans and Cars
+## Chapter 6: Adding Vans And Cars
 
 Vans open last mile and courier work, and they bring a second rule book. A van or car at or under 4.5 t GVM sits outside the Heavy Vehicle National Law. It falls under state road rules and work health and safety law instead, so the business runs two compliance systems side by side.
 
@@ -200,7 +200,7 @@ Vans open last mile and courier work, and they bring a second rule book. A van o
 
 Courier and last mile work is priced per drop, per item or per hour, not per km. A van doing 40 drops a day lives or dies on drops per hour and failed delivery rates. Work out a separate van rate in T10; do not scale down the truck rate.
 
-### Gig and Contractor Drivers
+### Gig And Contractor Drivers
 
 Many courier drivers are contractors or gig workers, and the rules for them have tightened:
 
@@ -210,7 +210,7 @@ Many courier drivers are contractors or gig workers, and the rules for them have
 
 Test every driver with T20 before the first shift: calling someone a contractor does not make them one.
 
-## Chapter 7: Becoming a 3PL
+## Chapter 7: Becoming A 3PL
 
 A 3PL stores, picks, packs and ships for other businesses. Adding a warehouse to a transport business turns trucks that wait for freight into a business that holds it, and it changes the money, the contracts and the payroll.
 
@@ -235,7 +235,7 @@ Payroll tax rarely bites a small fleet early, but adding a warehouse team often 
 
 Register with your state revenue office as soon as wages are heading for the threshold, not after. Thresholds and rates change; check them each 1 July (T24 keeps them in an editable table).
 
-## Chapter 8: When to Stop Growing
+## Chapter 8: When To Stop Growing
 
 Growth is not the goal; a business that pays you and stays safe is. Each warning sign below means the business is too thin to take the next step safely. Fix it first, then grow.
 
@@ -253,7 +253,7 @@ If three or more of these are flashing at once, the safest growth is none. Hold 
 
 &#91;embedded content: Count the signs in the table above each month; the answer decides whether the next truck waits\]
 
-## Chapter 9: Tools, Checklists and Sources
+## Chapter 9: Tools, Checklists And Sources
 
 | Tool | Use it when | Chapter |
 | --- | --- | --- |
@@ -264,7 +264,7 @@ If three or more of these are flashing at once, the safest growth is none. Hold 
 | T09, T10 | Cost per km and rates, at every stage | 1, 2 |
 | T18, T19, T20 | Utilisation; lease, buy or hire; employee or contractor | 5, 6, 8 |
 
-### Where to Check Each Stage's Set Up
+### Where To Check Each Stage's Set Up
 
 | What | Official source |
 | --- | --- |
@@ -291,3 +291,26 @@ If three or more of these are flashing at once, the safest growth is none. Hold 
 - Cost figures: T09, T24 and T28 sample inputs; replace them with your own
 
 This part is general information, not legal, tax or financial advice. Check with an accountant or lawyer who works with transport businesses before you change your structure, hire or sign a lease.
+
+> ### Check Yourself
+>
+> 1. The award rate is $28.32 an hour. What does each hour actually worked cost in the T24 sample?
+> 2. Your terms are 30 days and debtor days sit at 50. What does that tell you?
+> 3. At five trucks, one idle truck is what share of the fleet?
+> 4. In which states does payroll tax start soonest, at about 11 drivers?
+> 5. How many warning signs flashing at once mean the safest growth is none?
+> 
+> <p class="ans">Answers: 1. $44.61. 2. Customers are paying about 20 days late on average, using your money. 3. 20%. 4. VIC and WA, with a $1 million threshold. 5. Three or more.</p>
+
+### Numbers To Keep In Mind
+
+| Number | What it is | Chapter |
+| --- | --- | --- |
+| $89,264 a year | True cost of the T24 sample driver, NSW, Grade 4 | 3 |
+| About 8 weeks | Wages and running costs to keep in the bank before you add a truck | 4 |
+| 10.44% of wages | icare road freight rate, short distance, NSW | 3 |
+| $1 million | Lowest payroll tax threshold (VIC and WA) | 7 |
+
+> ### Quick Recap
+>
+> Grow one step at a time, and set up each stage's systems before you take it. Price the first employee on true cost, not the award rate; keep about eight weeks of wages and running costs in the bank; and stop growing when three warning signs flash at once.

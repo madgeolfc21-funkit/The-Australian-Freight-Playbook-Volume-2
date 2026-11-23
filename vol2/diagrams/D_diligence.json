@@ -1,14 +1,1 @@
-{"w":1240,"h":560,"title":"Executive Due Diligence Is a Loop, Not a Sign Off","items":[
-{"type":"box","x":0,"y":60,"w":360,"h":150,"title":"1 Know the law","lines":["keep up to date on safe","transport and the HVNL"]},
-{"type":"arrow","points":[[360,135],[430,135]]},
-{"type":"box","x":430,"y":60,"w":380,"h":150,"title":"2 Know the business","lines":["understand the work, its","hazards and its risks"]},
-{"type":"arrow","points":[[810,135],[880,135]]},
-{"type":"box","x":880,"y":60,"w":360,"h":150,"title":"3 Resource it","lines":["people, gear and processes","to remove or cut the risks"]},
-{"type":"arrow","points":[[1060,210],[1060,330]]},
-{"type":"box","fill":"yellow","x":880,"y":330,"w":360,"h":150,"title":"4 Hear about problems","lines":["incidents, hazards and","risks reported and acted on"]},
-{"type":"arrow","points":[[880,405],[810,405]]},
-{"type":"box","x":430,"y":330,"w":380,"h":150,"title":"5 Comply","lines":["processes that meet every","duty, actually used"]},
-{"type":"arrow","points":[[430,405],[360,405]]},
-{"type":"box","x":0,"y":330,"w":360,"h":150,"title":"6 Verify","lines":["check the resources and","processes are in use"]},
-{"type":"arrow","dashed":true,"points":[[180,330],[180,210]],"label":[200,275,"and back to the start"]}
-]}
+{"w": 1240, "h": 560, "title": "Executive Due Diligence Is A Loop, Not A Sign Off", "items": [{"type": "box", "x": 0, "y": 60, "w": 360, "h": 150, "title": "1 Know the law", "lines": ["keep up to date on safe", "transport and the HVNL"]}, {"type": "arrow", "points": [[360, 135], [430, 135]]}, {"type": "box", "x": 430, "y": 60, "w": 380, "h": 150, "title": "2 Know the business", "lines": ["understand the work, its", "hazards and its risks"]}, {"type": "arrow", "points": [[810, 135], [880, 135]]}, {"type": "box", "x": 880, "y": 60, "w": 360, "h": 150, "title": "3 Resource it", "lines": ["people, gear and processes", "to remove or cut the risks"]}, {"type": "arrow", "points": [[1060, 210], [1060, 330]]}, {"type": "box", "fill": "yellow", "x": 880, "y": 330, "w": 360, "h": 150, "title": "4 Hear about problems", "lines": ["incidents, hazards and", "risks reported and acted on"]}, {"type": "arrow", "points": [[880, 405], [810, 405]]}, {"type": "box", "x": 430, "y": 330, "w": 380, "h": 150, "title": "5 Comply", "lines": ["processes that meet every", "duty, actually used"]}, {"type": "arrow", "points": [[430, 405], [360, 405]]}, {"type": "box", "x": 0, "y": 330, "w": 360, "h": 150, "title": "6 Verify", "lines": ["check the resources and", "processes are in use"]}, {"type": "arrow", "dashed": true, "points": [[180, 330], [180, 210]], "label": [200, 275, "and back to the start"]}]}

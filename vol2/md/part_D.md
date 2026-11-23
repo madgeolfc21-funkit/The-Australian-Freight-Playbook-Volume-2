@@ -24,11 +24,15 @@ Part D is the fleet owner's manual: what the truck may carry, where it may go, w
 
 Every rate and limit in every tool can be edited, and each tool shows the date its figures were checked. This part covers the HVNL states first and calls out Western Australia and the Northern Territory wherever they differ.
 
-## Chapter 1: What Changed on 1 August 2026
+> ### Data Note
+>
+> Every figure in this part is the one in force from 1 August 2026 in the HVNL states, unless it says WA or the NT. Where a rule changed that day, Chapter 1 sets out what is different.
+
+## Chapter 1: What Changed On 1 August 2026
 
 The amended Heavy Vehicle National Law took effect on 1 August 2026, and it changed mass, length, fatigue, accreditation and penalties on the same day. Most of it lets operators carry more with less paperwork; some of it raises the stakes when things go wrong. This page applies to the HVNL states and territories. WA has adopted the same mass figures in its orders and permits, but its own legislation change was still pending in November 2026; check Main Roads WA.
 
-### Mass and Size
+### Mass And Size
 
 | Rule | Before 1 August 2026 | From 1 August 2026 |
 | --- | --- | --- |
@@ -40,21 +44,21 @@ The amended Heavy Vehicle National Law took effect on 1 August 2026, and it chan
 | General access length | 19 m | 20 m, subject to wheelbase and equipment rules. B double lengths unchanged for now |
 | Tow mass ratio | 1 to 1 | 1 to 1.3 |
 
-### Fatigue and Fitness
+### Fatigue And Fitness
 
 - **Alternative Compliance Hours (ACH)** replace Basic and Advanced Fatigue Management. Existing accreditations run until they expire.
 - **Standard hours did not change.** The solo and two up tables are the same (Part C, Chapter 3).
 - **Simpler written diary sheets:** no day of week, no standard hours tick, no daily totals.
 - **A new duty not to drive unfit:** fatigue, illness, injury, drugs, alcohol or mental fitness, for heavy vehicles over 4.5 t.
 
-### Accreditation and Penalties
+### Accreditation And Penalties
 
 - **NHVAS becomes Heavy Vehicle Accreditation (HVA),** with General Safety Accreditation and Alternative Compliance Accreditation. Transition runs for up to three years (Chapter 8).
 - **More than 70 penalties changed,** some up and some down ([NHVR](https://www.nhvr.gov.au/document/809)).
 - **Asking, directing or contracting a driver** to speed, drive tired or drive unfit now carries up to $28,230 for an offence committed between 1 August 2026 and 30 June 2027 (NHVR penalty list, document 910).
 - **Severe mass breaches** start at $14,120, plus $710 for each 1% over, up to $28,230.
 
-### What to Do This Month
+### What To Do This Month
 
 1. Update every mass figure in your load plans and quoting tools (T11 and T12 already use the new limits).
 2. Check whether your Euro VI trucks qualify for the extra mass, and record how.
@@ -62,7 +66,7 @@ The amended Heavy Vehicle National Law took effect on 1 August 2026, and it chan
 4. Brief schedulers and customers on the new unfit to drive duty: it applies to them as well as the driver.
 5. Diarise the penalty update: amounts index each year on 1 July.
 
-## Chapter 2: Mass and Dimensions
+## Chapter 2: Mass And Dimensions
 
 A truck is legal only when three numbers all pass: each axle group is under its limit, the whole vehicle is under its combination limit, and neither is over the manufacturer's GVM or GCM. The lowest of those three is your real limit.
 
@@ -96,7 +100,7 @@ The combination limit for an ordinary 6 axle semi is 43.5 t; 44 t with a complyi
 
 Dimension limits have many exceptions by vehicle type, load and route. Treat this table as the starting point and check the NHVR mass, dimension and loading guidance for your exact combination.
 
-### Western Australia and the Northern Territory
+### Western Australia And The Northern Territory
 
 - **WA** runs its own Restricted Access Vehicle (RAV) system through Main Roads WA. WA adopted the new mass figures in its orders and permits, but its own legislation change was still pending in November 2026.
 - **The NT** runs its own rules outside the HVNL, with road trains common on major routes. Check the NT Government's heavy vehicle pages before you run there.
@@ -107,11 +111,11 @@ Weigh each truck empty once, axle group by axle group, and keep the tickets. Fro
 
 [[sketch D02 fifth]]
 
-## Chapter 3: Loading and Restraint
+## Chapter 3: Loading And Restraint
 
 A load must stay put under hard braking, cornering and rough roads. The national Load Restraint Guide sets the standard: restraint must hold 0.8 of the load's weight forward, 0.5 sideways, 0.5 rearward, and 0.2 upward when friction is relied on. The 2018 guide is still current; the June 2025 edition only changed the look.
 
-### Two Ways to Restrain a Load
+### Two Ways To Restrain A Load
 
 - **Direct restraint:** the load is blocked or contained, by the headboard, gates, sides, or lashings tied directly to the load. Best for heavy items.
 - **Tie down:** lashings over the top clamp the load onto the deck, and friction holds it. Best for pallets and general freight, but only as good as the friction.
@@ -128,7 +132,7 @@ T is the lashing's pre tension in kgf, θ the angle from the deck, μ the fricti
 
 Fix the friction before you add straps. A rubber mat is bought once and works on every load; extra straps have to be thrown and tensioned every time.
 
-### Pre Tension by Lashing Type
+### Pre Tension By Lashing Type
 
 | Lashing | Tensioner | Pre tension, kgf |
 | --- | --- | --- |
@@ -139,13 +143,13 @@ Fix the friction before you add straps. A rubber mat is bought once and works on
 | 50 mm webbing | High pre tension ratchet | Up to 750 |
 | Chain, 7 mm and above | Turnbuckle | 1,000 |
 
-### Who Is Liable When the Load Shifts
+### Who Is Liable When The Load Shifts
 
 Everyone who had a hand in it. The driver must not drive an unsafe load. The loader, loading manager, packer and consignor have their own duties under the Chain of Responsibility, and so does the operator who sent the truck without the right gear or training.
 
 T13 works out the lashings for any load and direction; T12 plans the deck so restraint gear has room.
 
-## Chapter 4: Access and Routes
+## Chapter 4: Access And Routes
 
 A truck within the general mass and dimension limits can use most roads with no paperwork. Anything bigger or heavier runs only on roads approved for its class, either under a notice that covers everyone or a permit issued to you.
 
@@ -163,7 +167,7 @@ A truck within the general mass and dimension limits can use most roads with no 
 | PBS (Performance Based Standards) | Vehicles approved on how they perform; each PBS vehicle has a network level it may use |
 | HML (Higher Mass Limits) | Extra axle mass on approved routes, with conditions such as road friendly suspension |
 
-### Plan the Route Before You Quote
+### Plan The Route Before You Quote
 
 1. Check the whole route on the NHVR National Network Map, from the depot gate to the customer's dock. The last few kilometres on a council road are where access problems often sit.
 2. If any part needs a permit, apply early through the NHVR portal. A permit waits for every road manager on the route to consent.
@@ -174,11 +178,11 @@ A truck within the general mass and dimension limits can use most roads with no 
 
 Main Roads WA runs its own Restricted Access Vehicle networks, numbered by size: networks 1 to 4 for combinations up to 27.5 m, 5 to 8 up to 36.5 m, 9 and 10 up to 53.5 m, and longer PBS combinations by permit. RAVs over 20 m long, 2.5 m wide or 4.3 m high also need WA Heavy Vehicle Accreditation (Chapter 8). Check the Main Roads WA RAV mapping tool for each road.
 
-## Chapter 5: Road Trains and the Outback
+## Chapter 5: Road Trains And The Outback
 
 Road trains move freight across the north, the west and the inland on networks built for them. A Type 1 road train (an A double or B triple) runs to 36.5 m; a Type 2 (a triple) to 53.5 m. In NSW, Queensland, SA and Victoria they run under the National Class 2 Road Train Authorisation Notice 2026 (No. 2), in force from 1 August 2026 to 3 June 2030. WA and the NT run their own systems.
 
-### Road Trains by State
+### Road Trains By State
 
 | State | Types allowed | Longest | Speed cap | Notes |
 | --- | --- | --- | --- | --- |
@@ -193,13 +197,13 @@ Road trains move freight across the north, the west and the inland on networks b
 
 The real speed limit is always the lowest of the road rules, the notice, the permit, road conditions and the posted sign ([NHVR road train speed limits](https://www.nhvr.gov.au/road-access/mass-dimension-and-loading/classes-of-heavy-vehicles/class-2/road-train-speed-limits)).
 
-### Breaking Down at the Border
+### Breaking Down At The Border
 
 A road train that is legal in one state may not be in the next. A triple heading south from New South Wales must be broken down to an A double before it enters Victoria, because Victoria allows A doubles only. Find the assembly area before the trip, not at the border. T21 flags every leg where the combination is not allowed and shows where it must split.
 
 [[sketch D01 third]]
 
-### Planning an Outback Run
+### Planning An Outback Run
 
 - **Fuel range:** know the distance between fuel stops on every leg, and carry a margin for detours and headwinds.
 - **Heat and dust:** tyres, cooling systems and air filters work harder; check them at every stop.
@@ -210,7 +214,7 @@ A road train that is legal in one state may not be in the next. A triple heading
 
 T21 plans each leg: whether the combination is allowed, its planning speed, the driving time, and what to check before it leaves. Put the result through T14 to test the work and rest hours.
 
-## Chapter 6: Chain of Responsibility for the Business
+## Chapter 6: Chain Of Responsibility For The Business
 
 An operator sits at the centre of the chain: it is the employer, the scheduler, often the loader, and the business that sends the truck out. The law asks it to do everything reasonably practicable to make its transport activities safe, and asks its directors and managers to prove they checked.
 
@@ -227,7 +231,7 @@ An operator sits at the centre of the chain: it is the employer, the scheduler, 
 
 The top penalty for a Category 1 breach of the primary duty is $4,230,550 for a corporation, and for an individual $436,850, five years in jail, or both ([NHVR penalty list, 1 August 2026 to 30 June 2027](https://www.nhvr.gov.au/document/910)).
 
-### What a Regulator Looks For After an Incident
+### What A Regulator Looks For After An Incident
 
 After a serious crash or a major breach, the question is what the business did before it happened. Investigators ask for:
 
@@ -241,11 +245,11 @@ After a serious crash or a major breach, the question is what the business did b
 
 If it is not written down, it did not happen. The forms listed in Chapter 15 are the paper trail.
 
-## Chapter 7: Fatigue for the Business
+## Chapter 7: Fatigue For The Business
 
 The driver keeps the diary, but the business sets the roster. A fatigue regulated heavy vehicle is one over 12 t GVM or GCM, and every schedule that sends one out has to work inside the driver's legal hours, with queue time, loading time and traffic counted as work.
 
-### Standard Hours or Alternative Compliance Hours
+### Standard Hours Or Alternative Compliance Hours
 
 |  | Standard hours | Alternative Compliance Hours (ACH) |
 | --- | --- | --- |
@@ -262,17 +266,17 @@ The driver keeps the diary, but the business sets the roster. A fatigue regulate
 4. **Build in slack.** A schedule that only works on a clear road forces the driver to choose between being late and breaking the rules. That choice is your Chain of Responsibility risk (Chapter 6).
 5. **Ask the driver.** Fitness for duty is now a legal duty: a driver who says they are too tired to start is following the law.
 
-### Records the Business Keeps
+### Records The Business Keeps
 
 - **Work diaries** for drivers working 100 km or more from base. Written diaries come from the state agency; electronic work diaries are a paid subscription, count to the minute, and allow a total of 8 minutes over a work limit in a 24 hour period before it counts as a breach (never on rest time). From 1 August 2026 that allowance is written into section 5 of the Fatigue Management Regulation.
 - **Local area records** for work within 100 km, completed within 24 hours and kept by the record keeper for three years.
 - **Rosters, run sheets and pay records** that line up with the diaries. An auditor compares them.
 
-### Western Australia and the Northern Territory
+### Western Australia And The Northern Territory
 
 WA and the NT sit outside the HVNL fatigue rules and manage fatigue under their own laws. An interstate fleet follows the rules of the state the truck is in, so a run from Adelaide to Perth changes rule set at the border. Plan the WA and NT legs against the local requirements and keep records that satisfy both.
 
-## Chapter 8: Accreditation and Your Safety Management System
+## Chapter 8: Accreditation And Your Safety Management System
 
 Accreditation is how an operator proves its systems work, in exchange for more flexibility. On 1 August 2026 the National Heavy Vehicle Accreditation Scheme (NHVAS) began its move to Heavy Vehicle Accreditation (HVA), with up to three years of transition.
 
@@ -295,7 +299,7 @@ WA runs its own scheme, and it is mandatory, for WA and interstate operators ali
 
 Vehicles of 8 t GVM or less, buses, special purpose vehicles and farm equipment are exempt ([Main Roads WA](https://www.mainroads.wa.gov.au/)).
 
-### Building a Safety Management System
+### Building A Safety Management System
 
 The NHVR structures a safety management system in five parts. It publishes guidance but no fill in templates, so T25 gives you the registers to start with:
 
@@ -309,13 +313,13 @@ The NHVR structures a safety management system in five parts. It publishes guida
 
 Start small. A one truck operator needs a short policy, a risk register, a driver file and the daily forms. A fleet builds the same five parts out as it grows. Part E shows what to add at each stage.
 
-## Chapter 9: Cost per km and Rate Setting
+## Chapter 9: Cost Per km And Rate Setting
 
 A busy truck can still lose money. If jobs are priced on what the market pays rather than on what the truck costs, every km can lose a little, and nobody notices until the bills land. Work out your cost per km first, then quote.
 
 &#91;embedded content: T09 Truck cost per km, sample inputs, checked November 2026\]
 
-### From Cost to Rate
+### From Cost To Rate
 
 On the T09 sample, the semi costs $2.81 per km, $140 per paid hour, or about $1,404 per working day. To make a 15% margin on the price, it needs to charge about $3.30 per km or $165 per hour.
 
@@ -338,13 +342,13 @@ T10 turns your cost into a rate card by distance band, adds a fuel levy on the f
 
 A truck that sits idle still costs its fixed share: on the sample, $1.41 of every km is fixed cost, spread over the km it actually runs. Fewer km means a higher cost per km. T18 tracks days used, loaded km and revenue against target for each truck, and T19 compares leasing, buying and hiring the next one.
 
-## Chapter 10: Fuel, Fuel Tax Credits and the Road User Charge
+## Chapter 10: Fuel, Fuel Tax Credits And The Road User Charge
 
 Fuel is the biggest single cost of a heavy truck, and the fuel tax credit is the biggest single thing an operator can claim back. A heavy vehicle over 4.5 t GVM on a public road gets back the fuel excise less the road user charge: from 3 August 2026 that is 21.3 c/L, with the road user charge at 32.4 c/L ([ATO](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business/rates-business/from-1-july-2026-to-30-june-2027)).
 
 &#91;embedded content: ATO fuel tax credit rates for business, 1 July 2025 to November 2026\]
 
-### What 2026 Did to the Rates
+### What 2026 Did To The Rates
 
 - **1 April to 30 June 2026:** excise was cut and the road user charge suspended. On road and off road credits both fell to 20.6 c/L.
 - **1 July to 2 August 2026:** 20.2 c/L on road, 36.6 c/L for other business uses, with the road user charge at 16.4 c/L.
@@ -352,7 +356,7 @@ Fuel is the biggest single cost of a heavy truck, and the fuel tax credit is the
 
 Claims follow the date the fuel was bought, not the date of the BAS. A BAS covering July and August 2026 splits across two rates. T15 holds every rate period in an editable table and works out the claim from your fuel records.
 
-### Getting the Claim Right
+### Getting The Claim Right
 
 1. Keep fuel records that show date, litres, vehicle and price; fuel cards make this easy.
 2. Separate on road use from other uses (a refrigeration unit, a crane or PTO, idling on a private site). Other uses claim the higher rate.
@@ -363,7 +367,7 @@ Claims follow the date the fuel was bought, not the date of the BAS. A BAS cover
 
 Large businesses now report emissions under AASB S2: Group 1 from 1 January 2025, Group 2 from 1 July 2026, Group 3 from 1 July 2027. Your customers may ask for your figures even if you are too small to report. Diesel produces 2.716 kg of CO2 equivalent per litre burned (Scope 1), plus 0.668 kg upstream (Scope 3), under the 2026 National Greenhouse Accounts factors. T22 turns your fuel and electricity use into Scope 1, 2 and 3 figures.
 
-## Chapter 11: Maintenance and Fleet Systems
+## Chapter 11: Maintenance And Fleet Systems
 
 A truck that breaks down on the road costs the repair, the lost day, the recovery and sometimes the customer. A maintenance system is cheaper than any of those, and the HVNL expects one: keeping a vehicle roadworthy is part of the operator's primary duty.
 
@@ -408,7 +412,7 @@ One uninsured crash can end a small transport business. The covers below are the
 | Workers compensation | Injury to employees at work | Every employer, by law, in every state |
 | Income protection | Your income if you cannot drive | Owner drivers, who have no workers comp cover of their own |
 
-### Workers Compensation by State
+### Workers Compensation By State
 
 Road freight is one of the highest risk industries in every scheme, so its premium rate is several times the all industry average. T09 and T24 use the road freight rate as their default.
 
@@ -425,11 +429,11 @@ Road freight is one of the highest risk industries in every scheme, so its premi
 
 These are the starting rates for the industry. Your own premium moves with your claims record and, in WA and the NT, with your insurer, so put the rate from your own policy into T09 and T24.
 
-### Read the Exclusions
+### Read The Exclusions
 
 Reasons a transport claim can be refused include an unlicensed or unlisted driver, an overloaded or unroadworthy vehicle, an undeclared dangerous goods load, poor load restraint, or freight not covered by the policy's list of goods. Every one of those is also a compliance failure. Good compliance keeps the insurance working.
 
-## Chapter 13: Tolls and Urban Rules
+## Chapter 13: Tolls And Urban Rules
 
 City work is short distances, slow traffic, and tolls that add up quickly. In Sydney, a heavy vehicle's toll is roughly three times the car toll on most motorways, and a few runs a day add up fast.
 
@@ -446,7 +450,11 @@ City work is short distances, slow traffic, and tolls that add up quickly. In Sy
 
 Long trips on one network are capped: CityLink $38.32 by day for October to December 2026, less at night (the caps change every quarter); CityLink plus West Gate Tunnel $38.38; WestConnex full length $38.22; EastLink $21.33; Westlink M7 $31.71 (account prices including GST, checked November 2026). T16 applies each cap once per trip.
 
-### Rules That Catch Trucks in Cities
+> ### Data Note
+>
+> Toll prices and caps change every quarter on most Sydney and Melbourne roads, and each 1 July on EastLink and in Brisbane. T16 keeps them in an editable table; update it on the dates in Part G, Chapter 3.
+
+### Rules That Catch Trucks In Cities
 
 - **NorthConnex:** trucks over 12.5 m long or 2.8 m high travelling between the M1 and M2 in Sydney must use NorthConnex, unless their pickup or delivery can only be reached from Pennant Hills Road. Fine: $215. Placarded dangerous goods loads must use Pennant Hills Road instead.
 - **Tunnels and dangerous goods:** placarded dangerous goods are banned from the West Gate Tunnel in Melbourne, and many other urban tunnels restrict them. Check every tunnel on the route.
@@ -469,7 +477,7 @@ Some freight brings its own rules on top of everything above. Each type below ne
 | Bulk and tippers | Mass is the main risk: loads are easy to overfill | Weighing at the loading site or on board scales; HML where the route and vehicle qualify |
 | Car carriers and livestock crates | Some may run higher than 4.3 m on approved routes | The notice or permit for the height, and route checks for bridges and wires |
 
-### Dangerous Goods by State
+### Dangerous Goods By State
 
 Every state and territory applies the Australian Dangerous Goods Code through its own law and its own agency. The licences are not always interchangeable for every purpose, so check the agency in each state you run through.
 
@@ -479,9 +487,9 @@ Every state and territory applies the Australian Dangerous Goods Code through it
 
 The DG checklist in the operator forms pack (Chapter 15) covers loading, documents, placards and route bans. This chapter is an overview, not DG training: anyone loading or driving DG needs the accredited course for their role.
 
-## Chapter 15: Tools, Forms and Sources
+## Chapter 15: Tools, Forms And Sources
 
-### Forms for the Operator
+### Forms For The Operator
 
 | Form | What it records | Where it lives |
 | --- | --- | --- |
@@ -522,3 +530,7 @@ The DG checklist in the operator forms pack (Chapter 15) covers loading, documen
 - Toll prices: Linkt, EastLink and NSW Government operator pages, checked November 2026
 - Workers compensation road freight rates 2026/27: [icare NSW](https://icare.nsw.gov.au/-/media/icare/unique-media/employers/premiums/workers-compensation-premium-rates-2025-2026.pdf), WorkSafe Victoria (Gazette S 284, 2 June 2026), [WorkCover QLD](https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/163842/Queensland-Government-Gazette-2026.pdf), [ReturnToWorkSA](https://www.rtwsa.com/__data/assets/pdf_file/0007/295927/Industry-premium-rates-2026-27.pdf), WorkCover WA recommended premium rates 2026/27, [WorkCover Tasmania](https://worksafe.tas.gov.au/__data/assets/pdf_file/0006/808566/TAS-WC-Suggested-Premium-Rates-2026-27-FINAL.pdf), [ACT Government](https://www.act.gov.au/__data/assets/pdf_file/0020/3062720/ACT-Workers-Compensation-Suggested-Reasonable-Premium-Rates-2026-27.pdf)
 - National Greenhouse Accounts factors 2026 and AASB S2 dates
+
+> ### Quick Recap
+>
+> Know what the truck may carry and where it may go, price every job from your real cost per km, and keep the records that prove the business manages fatigue, mass, loading and maintenance. The 1 August 2026 changes reward systems and punish guesswork.

@@ -1,15 +1,1 @@
-{"w":1240,"h":740,"title":"Size Picks the Service; Urgency and Value Refine It","items":[
-{"type":"diamond","cx":330,"cy":165,"w":560,"h":140,"lines":["Cartons a courier","can hand carry?"]},
-{"type":"arrow","points":[[610,165],[780,165]],"label":[660,152,"yes"]},
-{"type":"box","center":true,"x":780,"y":118,"w":440,"h":95,"title":"Parcel or courier","lines":["priced per item, cubic counts"]},
-{"type":"arrow","points":[[330,235],[330,275]],"label":[345,262,"no"]},
-{"type":"diamond","cx":330,"cy":345,"w":560,"h":140,"lines":["A few pallets,","sharing a truck is fine?"]},
-{"type":"arrow","points":[[610,345],[780,345]],"label":[660,332,"yes"]},
-{"type":"box","center":true,"x":780,"y":298,"w":440,"h":95,"title":"Pallet network (LTL)","lines":["priced per pallet or per kg"]},
-{"type":"arrow","points":[[330,415],[330,455]],"label":[345,442,"no"]},
-{"type":"diamond","cx":330,"cy":525,"w":560,"h":140,"lines":["Under half a semi","(about 11 pallets)?"]},
-{"type":"arrow","points":[[610,525],[780,525]],"label":[660,512,"yes"]},
-{"type":"box","center":true,"x":780,"y":478,"w":440,"h":95,"title":"Get LTL and part load quotes","lines":["compare both in T02"]},
-{"type":"arrow","points":[[330,595],[330,638]],"label":[345,625,"no"]},
-{"type":"box","center":true,"fill":"orange","x":110,"y":638,"w":440,"h":95,"title":"Full truck load (FTL)","lines":["priced per truck, door to door"]}
-]}
+{"w": 1240, "h": 740, "title": "Size Picks The Service; Urgency And Value Refine It", "items": [{"type": "diamond", "cx": 330, "cy": 165, "w": 560, "h": 140, "lines": ["Cartons a courier", "can hand carry?"]}, {"type": "arrow", "points": [[610, 165], [780, 165]], "label": [660, 152, "yes"]}, {"type": "box", "center": true, "x": 780, "y": 118, "w": 440, "h": 95, "title": "Parcel or courier", "lines": ["priced per item, cubic counts"]}, {"type": "arrow", "points": [[330, 235], [330, 275]], "label": [345, 262, "no"]}, {"type": "diamond", "cx": 330, "cy": 345, "w": 560, "h": 140, "lines": ["A few pallets,", "sharing a truck is fine?"]}, {"type": "arrow", "points": [[610, 345], [780, 345]], "label": [660, 332, "yes"]}, {"type": "box", "center": true, "x": 780, "y": 298, "w": 440, "h": 95, "title": "Pallet network (LTL)", "lines": ["priced per pallet or per kg"]}, {"type": "arrow", "points": [[330, 415], [330, 455]], "label": [345, 442, "no"]}, {"type": "diamond", "cx": 330, "cy": 525, "w": 560, "h": 140, "lines": ["Under half a semi", "(about 11 pallets)?"]}, {"type": "arrow", "points": [[610, 525], [780, 525]], "label": [660, 512, "yes"]}, {"type": "box", "center": true, "x": 780, "y": 478, "w": 440, "h": 95, "title": "Get LTL and part load quotes", "lines": ["compare both in T02"]}, {"type": "arrow", "points": [[330, 595], [330, 638]], "label": [345, 625, "no"]}, {"type": "box", "center": true, "fill": "orange", "x": 110, "y": 638, "w": 440, "h": 95, "title": "Full truck load (FTL)", "lines": ["priced per truck, door to door"]}]}

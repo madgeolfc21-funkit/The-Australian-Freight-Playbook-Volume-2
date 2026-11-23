@@ -6,10 +6,10 @@ Part A is for everyone. It gives every reader the same words, the same map and t
 
 | If you | Go to | Then |
 | --- | --- | --- |
-| Buy or book freight, or receive it at your dock | Part B: The Shipper and Receiver | Part F for rail, air and sea |
+| Buy or book freight, or receive it at your dock | Part B: The Shipper And Receiver | Part F for rail, air and sea |
 | Drive a truck, or are about to | Part C: The Driver | Part D, Chapter 3 on loading and restraint |
 | Run trucks, from one to a fleet | Part D: The Operator | Part E when you are ready to grow |
-| Want a number or a tool, fast | Part G: Numbers and Tool Index | The part the tool belongs to |
+| Want a number or a tool, fast | Part G: Numbers And Tool Index | The part the tool belongs to |
 
 ### How Each Chapter Works
 
@@ -21,7 +21,7 @@ The book comes with 30 Excel tools, numbered T01 to T30, and a forms pack. Each 
 
 Download the tools from the Supplying a Continent toolkit page.
 
-### Before You Rely on a Number
+### Before You Rely On A Number
 
 Every figure was checked against its source in November 2026. Rules, rates and prices change, and some change every year on a set date. Part G, Chapter 3 lists when each one is due for a recheck. If a number matters to a decision, check the source first.
 
