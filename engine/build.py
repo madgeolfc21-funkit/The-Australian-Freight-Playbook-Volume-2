@@ -14,15 +14,20 @@ def latex_to_html(src):
     s = s.replace('\\times', '×').replace('\\sin\\theta', 'sin θ').replace('\\mu', 'μ')
     s = re.sub(r'\\text\{([^{}]*)\}', r'\1', s)
     s = re.sub(r'([A-Za-z])_\{([^{}]*)\}', r'\1<sub>\2</sub>', s)
+    s = s.replace(' - ', ' − ')
+    lhs, rhs = (s.split(' = ', 1) + [''])[:2] if ' = ' in s else ('', s)
+    rhs = re.sub(r' ([×−+]) ', r' <span class="op">\1</span> ', rhs)
 
     def frac(m):
         return f'<span class="frac"><span class="num">{m.group(1)}</span><span class="den">{m.group(2)}</span></span>'
     prev = None
-    while prev != s:
-        prev = s
-        s = re.sub(r'\\frac\{([^{}]*)\}\{([^{}]*)\}', frac, s)
-    s = s.replace(' - ', ' − ')
-    return f'<div class="formula">{s}</div>'
+    while prev != rhs:
+        prev = rhs
+        rhs = re.sub(r'\\frac\{([^{}]*)\}\{([^{}]*)\}', frac, rhs)
+    eq = f'<span class="lhs">{lhs}</span><span class="op eq">=</span>' if lhs else ''
+    plain = re.sub(r'<[^>]+>', '', rhs)
+    cls = 'formula long' if len(plain) > 70 else 'formula'
+    return f'<div class="{cls}"><div class="ftag">Formula</div><div class="fbody">{eq}<span class="rhs">{rhs}</span></div></div>'
 
 
 def convert(part, md_text, widgets):
